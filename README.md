@@ -10,6 +10,10 @@
 
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FA72E2,100:FEBBAD&height=120&section=header&text=Hi%20👋%20I'm%20Ananda%20Ranganathan%20Harikrishnan&fontSize=26&animation=twinkling&fontAlign=50&fontAlignY=50" />
+</p>
+
 
 
 
