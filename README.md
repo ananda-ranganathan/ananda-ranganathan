@@ -1,6 +1,6 @@
 <!-- Animated Name Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan;Automation+Engineer+%7C+Data+Science+Enthusiast;Turning+Data+Into+Powerful+Insights;From+Testing+to+AI+Vision!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan;Turning+Data+Into+Powerful+Insights;From+Testing+to+AI+Vision!" />
 </h1>
 
 <p align="center">
