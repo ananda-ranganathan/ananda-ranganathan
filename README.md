@@ -1,12 +1,12 @@
 <!-- Animated Name Banner -->
 
-<h1 align="center" style="color:#8A2BE2;">
-  Hi 👋 I'm Ananda Ranganathan Harikrishnan
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ananda Ranganathan Harikrishnan
 </h1>
 
-<h2 align="center" style="color:#FFD700;">
+<h3 align="center" style="color:#FFD700;">
   From Testing to AI Vision!
-</h2>
+</h3>
 
 
 <p align="center">
