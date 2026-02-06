@@ -3,10 +3,56 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ananda Ranganathan Harikrishnan
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Transforming+QA+Expertise+into+AI+Excellence;From+Testing+to+AI+Innovation;Automation+Engineer+Turned+AI+Enthusiast;Building+Intelligent+Systems+with+Data" />
+</p>
 
-<h3 align="center" style="color:#FFD700;">
-  From Testing to AI Vision!
-</h3>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20AI%20Journey&fontSize=30&animation=fadeIn" />
+</p>
+
+---
+
+### 💼 Professional Transformation
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=3000&pause=500&color=F7B93E&center=true&vCenter=true&width=800&lines=Quality+Assurance+Engineer;Automation+Specialist;Aspiring+Data+Scientist;AI+and+Machine+Learning+Explorer" />
+</p>
+
+---
+
+### 🌟 Career Tagline
+
+<div align="center">
+
+**✨ Transforming QA Expertise into AI Excellence ✨**
+
+</div>
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,selenium,tensorflow,pytorch,sklearn,git,github,vscode" />
+</p>
+
+---
+
+### 🔥 Animated Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
 
 
 <p align="center">
