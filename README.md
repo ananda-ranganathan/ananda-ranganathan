@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Transforming+QA+Expertise+into+AI+Excellence;From+Testing+to+AI+Innovation;Automation+Engineer+Turned+AI+Enthusiast;Building+Intelligent+Systems+with+Data" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence;Think+Data.+Build+AI.;Transforming+QA+Expertise+into+AI+Excellence" />
 </p>
+>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
