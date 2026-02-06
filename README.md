@@ -8,11 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=30&animation=twinkling" />
 </p> 
 
-
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence" />
 </p>
@@ -30,14 +25,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
-
-
-
-
-
-
-
-
+<!-- END of Animated Name Banner -->
 ---
 
 ### 💡 About Me
