@@ -1,100 +1,134 @@
+<!-- Animated Name Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan;Automation+Engineer+%7C+Data+Science+Enthusiast;Turning+Data+Into+Powerful+Insights;From+Testing+to+AI+Vision!" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan;Engineer+by+Experience;Data+Scientist+by+Vision;Automation+Tester+to+AI+Explorer;Turning+Data+into+Insights!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&color=F75C7E&center=true&vCenter=true&width=600&lines=Engineer+by+Experience+🚀;Data+Scientist+by+Vision+📊;AI+%7C+ML+%7C+Analytics+Explorer+🤖" />
 </p>
 
 ---
+
+<!-- Animated Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&label=PROFILE+VISITS&color=brightgreen&style=for-the-badge" />
+</p>
+
+---
+
+## 🌟 About Me – In Colors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-6fca5b9e-1e5d-4e41-9a14-1c4b7f3e0c5a.gif" width="400">
+</p>
+
+- 🔭 **Current Role:** Automation Test Engineer  
+- 🌱 **Learning:** Data Science, Machine Learning, AI  
+- 🎯 **Career Goal:** Transition into Full-Time Data Scientist  
+- 🤝 **Looking to Collaborate:** Analytics & ML Projects  
+- 💬 **Ask me about:** Python, Selenium, SQL, Analytics  
+- 📫 **Reach me:** *anandaranganathanharikrishnan@gmail.com*
+
+---
+
+## 🎨 Fun Facts – With Style
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFD700&size=22&center=true&vCenter=true&width=900&lines=⚡+I+believe+every+dataset+has+a+story+waiting+to+be+discovered;🚀+From+Bug+Hunter+to+Insight+Creator;📊+I+talk+to+data+more+than+people+sometimes;🧠+Automating+Workflows+is+my+superpower!" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌐 Let’s Connect
 
-- 🔭 I’m currently working as an **Automation Test Engineer**
-- 🌱 I’m currently learning **Data Science, Machine Learning & AI**
-- 🎯 Aspiring to become a **Data Scientist**
-- 👯 Looking to collaborate on **Data Analytics & ML Projects**
-- 💬 Ask me about **Python, Selenium, Data Analytics, Machine Learning**
-- 📫 Reach me at: **anandaranganathanharikrishnan@gmail.com**
-- ⚡ Fun Fact: **I believe every dataset has a story waiting to be discovered**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://github.com/ananda-ranganathan" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" />
+
+<a href="https://github.com/ananda-ranganathan">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:anandaranganathanharikrishnan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
-## 🛠 Languages and Tools
-
-<p align="left">
+## 🛠 Tech Arsenal – Animated Stack
 
 ### 💻 Programming
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,sql" />
+</p>
 
 ### 📊 Data Science & Analytics
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,matplotlib" />
+</p>
 
 ### 🤖 Automation Testing
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
 
-### 🛢 Databases
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=selenium,java,maven,jenkins,git" />
+</p>
 
-### 🛠 Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+### 🗄 Databases & Tools
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity – Live & Animated
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&show_icons=true&theme=radical&count_private=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan&theme=tokyonight" alt="streak stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan&theme=radical" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I’m Currently Building
 
-- 📘 Building strong foundation in **Machine Learning**
-- 📊 Creating **Data Science Projects**
-- 🧪 Applying automation mindset to analytics
-- 🧠 Improving problem solving using Python
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Building+Real-World+Data+Science+Projects;Practicing+Machine+Learning+Algorithms;Creating+Automation+Frameworks;Sharpening+SQL+and+Analytics+Skills" />
+</p>
 
 ---
 
-## 🌟 Career Vision
+## 🌟 Professional Tagline
 
-> To transform raw data into meaningful insights and intelligent solutions using analytics, automation, and machine learning.
+<p align="center">
+  <b style="color:#36BCF7">
+    “Transforming Data Into Decisions – One Insight at a Time”
+  </b>
+</p>
+
+---
+
+### 🎯 Career Vision
+
+> To blend automation mindset with data science intelligence and build smart, scalable, data-driven solutions.
 
 ---
 
 <p align="center">
-  <b>✨ Thanks for visiting my profile! Have a great day ✨</b>
+  <img src="https://user-images.githubusercontent.com/74038190/216656948-9c9f69f3-2c2b-4ed3-9b0a-91f3d99f1b8a.gif" width="200">
+</p>
+
+<p align="center">
+  <b>✨ Thanks for visiting! Let’s build something amazing together ✨</b>
 </p>
