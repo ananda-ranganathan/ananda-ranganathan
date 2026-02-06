@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan;Turning+Data+Into+Powerful+Insights;From+Testing+to+AI+Vision!" />
 </h1>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&color=F75C7E&center=true&vCenter=true&width=600&lines=Engineer+by+Experience+🚀;Data+Scientist+by+Vision+📊;AI+%7C+ML+%7C+Analytics+Explorer+🤖" />
+</p>
 ---
 
 ### 💡 About Me
