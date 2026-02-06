@@ -12,10 +12,12 @@
 
 </h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3200&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Engineer+by+Experience!!!;Data+Scientist+by+AI+Vision!!!;Automation+Expert+Turned+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Engineer+by+Experience!!!" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Data+Scientist+by+AI+Vision!!!" />
 </p>
+
 
 
 
