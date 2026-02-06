@@ -7,15 +7,11 @@
 
   <br>
 
-  <!-- Data Insight line with neon cyan -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Powerful+Insights" />
-
-  <br>
-
   <!-- Transition line with professional gold -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=850&lines=From+Testing+to+AI+Vision!" />
 
 </h1>
+
 
 
 <p align="center">
