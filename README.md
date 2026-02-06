@@ -3,9 +3,69 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan;Turning+Data+Into+Powerful+Insights;From+Testing+to+AI+Vision!" />
 </h1>
 
+<h2 align="center">My Vision</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Engineer+by+Experience!!!+|+Data+Scientist+by+AI+Vision!!!" />
+
+<svg width="1000" height="180">
+
+  <!-- Animated Gradient Definition -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0000">
+        <animate attributeName="stop-color"
+          values="#ff0000;#00ff00;#0000ff;#ff00ff;#ff0000"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+
+      <stop offset="100%" style="stop-color:#0000ff">
+        <animate attributeName="stop-color"
+          values="#0000ff;#ff00ff;#00ff00;#ff0000;#0000ff"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- First Quote : Left to Right -->
+  <text x="50%" y="40%" text-anchor="middle"
+        fill="url(#grad1)"
+        font-size="28"
+        font-weight="bold">
+
+    Engineer by Experience!!!
+
+    <animate attributeName="opacity"
+      values="0;1;0"
+      dur="5s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- Second Quote : Right to Left -->
+  <text x="50%" y="75%" text-anchor="middle"
+        fill="url(#grad1)"
+        font-size="28"
+        font-weight="bold">
+
+    Data Scientist by AI Vision!!!
+
+    <animate attributeName="opacity"
+      values="1;0;1"
+      dur="5s"
+      repeatCount="indefinite"/>
+  </text>
+
+</svg>
+
 </p>
+
+---
+
+### 💡 About Me
+
+- 🔧 **Engineer by Experience**
+- 🤖 **Data Scientist by AI Vision**
+- 📊 Passionate about AI, ML and Automation
+- 🚀 Transforming ideas into intelligent solutions
 
 ---
 
