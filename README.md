@@ -3,18 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan;Turning+Data+Into+Powerful+Insights;From+Testing+to+AI+Vision!" />
 </h1>
 
-<p align="center">
+<p align="center" style="display:flex; align-items:center; justify-content:center; gap:10px;">
 
-  <!-- Left to Right Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=36BCF7&center=true&vCenter=true&width=400&lines=Engineer+by+Experience!!!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=36BCF7&vCenter=true&width=380&height=40&lines=Engineer+by+Experience!!!" style="display:inline-block;" />
 
-  <!-- Static Middle Separator -->
-  <span style="font-size:26px; font-weight:bold; color:#FFFFFF"> | </span>
+  <span style="font-size:26px; font-weight:bold; color:#FFFFFF; display:inline-block;"> | </span>
 
-  <!-- Right to Left Text (mirrored effect) -->
-  <span style="display:inline-block; transform: scaleX(-1);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=F75C7E&center=true&vCenter=true&width=450&lines=Data+Scientist+by+AI+Vision!!!" />
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=F75C7E&vCenter=true&width=430&height=40&lines=Data+Scientist+by+AI+Vision!!!" style="display:inline-block;" />
 
 </p>
 
