@@ -3,10 +3,10 @@
 <!-- <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ananda Ranganathan Harikrishnan
 </h1> -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%20I'm%20Ananda%20Ranganathan%20Harikrishnan&fontSize=28&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=34&animation=twinkling" />
 </p>
+
 
 
 <p align="center">
