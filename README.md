@@ -1,7 +1,22 @@
 <!-- Animated Name Banner -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan;Turning+Data+Into+Powerful+Insights;From+Testing+to+AI+Vision!" />
+
+  <!-- Name with shiny purple -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan" />
+
+  <br>
+
+  <!-- Data Insight line with neon cyan -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Powerful+Insights" />
+
+  <br>
+
+  <!-- Transition line with professional gold -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=850&lines=From+Testing+to+AI+Vision!" />
+
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=36BCF7&center=true&vCenter=true&width=900&lines=Engineer+by+Experience!!!+|+Data+Scientist+by+AI+Vision!!!" />
