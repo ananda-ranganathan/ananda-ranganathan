@@ -14,8 +14,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Engineer+by+Experience!!!+|+Data+Scientist+by+AI+Vision!!!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3200&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Engineer+by+Experience!!!;Data+Scientist+by+AI+Vision!!!;Automation+Expert+Turned+AI+Enthusiast" />
 </p>
+
 
 
 
