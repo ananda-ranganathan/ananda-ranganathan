@@ -8,32 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Transforming+QA+Expertise+into+AI+Excellence;From+Testing+to+AI+Innovation;Automation+Engineer+Turned+AI+Enthusiast;Building+Intelligent+Systems+with+Data" />
 </p>
 
-### 🌟 Career Tagline
-
-<div align="center">
-
-**✨ Transforming QA Expertise into AI Excellence ✨**
-
-</div>
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,selenium,tensorflow,pytorch,sklearn,git,github,vscode" />
-</p>
-
----
-
-### 🔥 Animated Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
