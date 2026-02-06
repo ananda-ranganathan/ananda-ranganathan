@@ -3,17 +3,11 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ananda Ranganathan Harikrishnan
 </h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Transforming+QA+Expertise+into+AI+Excellence;From+Testing+to+AI+Innovation;Automation+Engineer+Turned+AI+Enthusiast;Building+Intelligent+Systems+with+Data" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20AI%20Journey&fontSize=30&animation=fadeIn" />
-</p>
-
----
 
 ### 💼 Professional Transformation
 
