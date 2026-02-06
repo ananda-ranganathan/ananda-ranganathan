@@ -7,9 +7,10 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=30&animation=fadeIn" />
 </p> -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA72E2,33:FCAED8,66:FDB5C2,100:FEBBAD&height=150&section=header&text=Hi%20👋%20Ananda%20Ranganathan%20Harikrishnan%20✨&fontSize=26&animation=twinkling&fontAlignY=50&fontAlign=50" />
-</p> -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA72E2,33:FCAED8,66:FDB5C2,100:FEBBAD&height=150&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=27&animation=twinkling&fontAlign=50&fontAlignY=50" />
