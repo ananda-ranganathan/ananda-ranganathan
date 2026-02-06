@@ -9,6 +9,10 @@
 </p> -->
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradien&height=140&section=header&text=Hi%20I'm%20Ananda%20Ranganathan%20Harikrishnan&fontSize=28&animation=twinkling" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%20I'm%20Ananda%20Ranganathan%20Harikrishnan&fontSize=28&animation=fadeIn" />
 </p>
 
