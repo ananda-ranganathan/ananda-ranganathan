@@ -1,8 +1,13 @@
 <!-- Animated Name Banner -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ananda Ranganathan Harikrishnan
-</h1>
+</h1> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%20I'm%20Ananda%20Ranganathan%20Harikrishnan&fontSize=28&fontAlignY=40&animation=fadeIn" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence" />
