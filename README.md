@@ -3,14 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ananda+Ranganathan+Harikrishnan;Turning+Data+Into+Powerful+Insights;From+Testing+to+AI+Vision!" />
 </h1>
 
-<p align="center" style="display:flex; align-items:center; justify-content:center; gap:10px;">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=36BCF7&vCenter=true&width=380&height=40&lines=Engineer+by+Experience!!!" style="display:inline-block;" />
-
-  <span style="font-size:26px; font-weight:bold; color:#FFFFFF; display:inline-block;"> | </span>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=F75C7E&vCenter=true&width=430&height=40&lines=Data+Scientist+by+AI+Vision!!!" style="display:inline-block;" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=36BCF7&center=true&vCenter=true&width=900&lines=Engineer+by+Experience!!!+|+Data+Scientist+by+AI+Vision!!!" />
 </p>
 
 ---
