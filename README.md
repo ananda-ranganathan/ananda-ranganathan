@@ -14,10 +14,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Engineer+by+Experience!!!" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Scientist+by+AI+Vision!!!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Engineer+by+Experience!!!;Data+Scientist+by+AI+Vision!!!" />
 </p>
+
 
 
 ---
