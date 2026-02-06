@@ -8,15 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Transforming+QA+Expertise+into+AI+Excellence;From+Testing+to+AI+Innovation;Automation+Engineer+Turned+AI+Enthusiast;Building+Intelligent+Systems+with+Data" />
 </p>
 
-
-### 💼 Professional Transformation
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=3000&pause=500&color=F7B93E&center=true&vCenter=true&width=800&lines=Quality+Assurance+Engineer;Automation+Specialist;Aspiring+Data+Scientist;AI+and+Machine+Learning+Explorer" />
-</p>
-
----
-
 ### 🌟 Career Tagline
 
 <div align="center">
