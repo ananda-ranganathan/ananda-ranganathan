@@ -1,24 +1,12 @@
 <!-- Animated Name Banner -->
 
- <h1 align="center">
+  <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ananda Ranganathan Harikrishnan
 </h1> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=30&animation=fadeIn" />
 </p> 
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FA72E2,100:FEBBAD&height=120&section=header&text=Hi%20👋%20I'm%20Ananda%20Ranganathan%20Harikrishnan&fontSize=26&animation=twinkling&fontAlign=50&fontAlignY=50" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA72E2,33:FCAED8,66:FDB5C2,100:FEBBAD&height=150&section=header&text=Hi%20👋%20I'm%20Ananda%20Ranganathan%20Harikrishnan&fontSize=26&animation=twinkling&fontAlign=50&fontAlignY=50" />
-</p>
 
 
 
