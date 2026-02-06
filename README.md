@@ -8,8 +8,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=30&animation=fadeIn" />
 </p> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA72E2,33:FCAED8,66:FDB5C2,100:FEBBAD&height=130&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=30&animation=twinkling&fontAlignY=42" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA72E2,33:FCAED8,66:FDB5C2,100:FEBBAD&height=160&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=34&animation=twinkling&fontAlignY=46" />
 </p>
+
 
 
 
