@@ -257,7 +257,12 @@
 
 <!-- Lets Connect Ends Here -->
 
-## 🌐 Let’s Connect <img src="https://img.icons8.com/color/48/handshake.png" width="30"/>
+## 🤝 Let's Connect
+
+<p align="center">
+  <img src="https://cdn.iconscout.com/lottie/premium/preview/lets-connect-animation-8370637-6680066.gif" width="350"/>
+</p>
+
 
 
 
