@@ -115,7 +115,7 @@
 
 <tr>
 <td width="30%"><b>🧑‍💻 Languages & Markup</b></td>
-<td width="70%">
+<td width="80%">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
