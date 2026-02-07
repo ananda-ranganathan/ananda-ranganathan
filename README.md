@@ -231,22 +231,17 @@
 <!-- GitHub Stats Ends Here -->
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&line_height=20" width="90%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&line_height=20" width="90%" />
 </p>
 
 <p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=true&ring=FF6F00&fire=FF6F00&currStreakLabel=FF6F00" width="90%" />
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=true&ring=FF6F00&fire=FF6F00&currStreakLabel=FF6F00" width="90%" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=true&layout=compact" width="90%" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=true&layout=compact" width="90%" />
 </p>
+
 
 
 
