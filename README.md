@@ -239,6 +239,9 @@
 
 
 ## 🎬 Animation Sentence Demo
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true" />
+
 ### ⌨ Typing Demo
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&width=600&lines=I+love+building+data+projects;Automation+makes+life+easy;Always+learning+new+tech" />
