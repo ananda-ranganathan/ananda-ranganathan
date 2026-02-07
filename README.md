@@ -165,8 +165,8 @@
 ----------------
 ## 💻 Tech Stack </>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient" />
+
 
 
 
