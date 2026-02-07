@@ -128,7 +128,7 @@
 </tr>
 
 <tr>
-<td width="50%"><b>📊 Data Science & Analytics</b></td>
+<td width="35%"><b>📊 Data Science & Analytics</b></td>
 <td width="70%">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
