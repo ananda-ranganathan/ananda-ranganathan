@@ -217,7 +217,7 @@
   />
 </p>
 
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6ec4, #7873f5, #4ade80);" />
 
 <!-- Fun Facts Ends Here -->
 
