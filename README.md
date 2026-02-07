@@ -116,7 +116,8 @@
 
 <!-- Tech Stacks Starts Here -->
 
-## ⚙️ Tech Stack
+## <p align="center">⚙️ Tech Stack </p>
+
 
 **🧑‍💻 Languages & Markup**
 
@@ -203,121 +204,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 <!-- Tech Stacks Ends Here -->
-
-
-
-## ⚙️ Tech Stack
-
-<table>
-
-<tr>
-<td><b>➡️ 🧑‍💻 Languages & Markup ➜➜➜</b></td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>➡️ 📊 Data Science & Analytics ➜➜➜</b></td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>➡️ 🤖 Automation & Testing ➜➜➜</b></td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>➡️ 🗄 Databases & Tools ➜➜➜</b></td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>➡️ ☁️ Cloud & Environment ➜➜➜</b></td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>➡️ 📈 BI & Productivity ➜➜➜</b></td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge"/>
-
-</td>
-</tr>
-
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
