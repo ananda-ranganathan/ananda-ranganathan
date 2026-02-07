@@ -230,7 +230,7 @@
 
 <!-- Lets Connect starts Here -->
 
-## <p align="center"> Let's Connect, <img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif" height="30px" style="max-width: 100%; height: auto; max-height: 30px; display: inline-block;" data-target="animated-image.originalImage"></p>
+## <p align="center"> Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif" height="30px" style="max-width: 100%; height: auto; max-height: 30px; display: inline-block;" data-target="animated-image.originalImage"></p>
 
 
 <p align="center">
