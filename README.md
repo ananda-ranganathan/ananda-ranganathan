@@ -165,9 +165,9 @@
 ----------------
 ## 💻 Tech Stack </>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+
 
 **🧑‍💻 Languages & Markup**
 
@@ -230,9 +230,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+
 
 
 
