@@ -228,54 +228,7 @@
 
 
 
-## 🌐 Let’s Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/ananda-ranganathan">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:anandaranganathanharikrishnan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <!-- Email -->
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧 Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/ananda-ranganathan" target="_blank">
-    <img src="https://img.shields.io/badge/🐙 GitHub%20Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <!-- Instagram -->
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/📸 Instagram%20Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <!-- Telegram -->
-  <a href="https://t.me/your-telegram" target="_blank">
-    <img src="https://img.shields.io/badge/✈️ Telegram%20Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ananda-ranganathan" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
+<!-- Lets Connect starts Here -->
 
 ## 🌐 Let’s Connect
 
@@ -302,6 +255,7 @@
 </p>
 
 
+<!-- Lets Connect Ends Here -->
 
 
 
