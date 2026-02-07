@@ -101,15 +101,6 @@
   
 </table>
 
-
-## <p align="center">⚡ Fun Fact</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=🔍+I+believe+every+dataset+has+a+story+waiting+to+be+told+🧩"
-  />
-</p>
-
 <!-- About Me and FunFact Header Ends Here -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
@@ -206,7 +197,14 @@
 
 
 
-## ⚙️ Tech Stack
+## <p align="center">⚡ Fun Fact</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=🔍+I+believe+every+dataset+has+a+story+waiting+to+be+told+🧩"
+  />
+</p>
+
 
 
 
