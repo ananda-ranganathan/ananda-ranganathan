@@ -209,24 +209,20 @@
 
 <!-- Fun Facts Ends Here -->
 
-
 <!-- ================= TECH STACK ================= -->
 
-<h2 align="center">
+<h2 align="center">⚙️ Tech Stack</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=⚙️+Tech+Stack" />
-
-</h2>
-
-<table>
+<table width="100%">
 
 <tr>
-<td width="30%">
+<td width="35%">
 
-### 🧑‍💻 Languages & Markup
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=FF6F00&repeat=true&width=260&lines=🧑‍💻+Languages+%26+Markup" />
 
 </td>
-<td>
+
+<td align="center">
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
@@ -241,10 +237,11 @@
 <tr>
 <td>
 
-### 📊 Data Science & Analytics
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00C853&repeat=true&width=260&lines=📊+Data+Science+%26+Analytics" />
 
 </td>
-<td>
+
+<td align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-teal?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge)
@@ -259,10 +256,11 @@
 <tr>
 <td>
 
-### 🤖 Automation & Testing
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=2979FF&repeat=true&width=260&lines=🤖+Automation+%26+Testing" />
 
 </td>
-<td>
+
+<td align="center">
 
 ![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-brightgreen?style=for-the-badge)
@@ -274,10 +272,11 @@
 <tr>
 <td>
 
-### 🗄 Databases & Tools
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=AA00FF&repeat=true&width=260&lines=🗄+Databases+%26+Tools" />
 
 </td>
-<td>
+
+<td align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-navy?style=for-the-badge)
@@ -291,10 +290,11 @@
 <tr>
 <td>
 
-### ☁ Cloud & Environment
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=0091EA&repeat=true&width=260&lines=☁+Cloud+%26+Environment" />
 
 </td>
-<td>
+
+<td align="center">
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge)
 ![Anaconda](https://img.shields.io/badge/Anaconda-green?style=for-the-badge)
@@ -306,10 +306,11 @@
 <tr>
 <td>
 
-### 📈 BI & Productivity
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=FFD600&repeat=true&width=260&lines=📈+BI+%26+Productivity" />
 
 </td>
-<td>
+
+<td align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge)
@@ -322,6 +323,7 @@
 </table>
 
 <!-- ================= END ================= -->
+
 
 
 ### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
