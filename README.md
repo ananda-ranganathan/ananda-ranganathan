@@ -256,20 +256,12 @@
 <!-- Lets Connect Ends Here -->
 
 
-
-
-
-
 ## 🚀 What I’m Currently Building
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Building+Real-World+Data+Science+Projects;Practicing+Machine+Learning+Algorithms;Creating+Automation+Frameworks;Sharpening+SQL+and+Analytics+Skills" />
 </p>
 
----
-
-### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
-🔗 https://github.com/ananda-ranganathan
 
 
 <!-- Thank You Greetings Starts Here -->
@@ -283,3 +275,8 @@
 </p>
 
 <!-- Thank You Greetings Ends Here -->
+
+
+
+### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
+🔗 https://github.com/ananda-ranganathan
