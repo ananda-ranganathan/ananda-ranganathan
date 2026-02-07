@@ -220,10 +220,11 @@
 <!-- Fun Facts Ends Here -->
 
 <!-- GitHub Stats Starts Here -->
+
 ## <p align="center">🔥 GitHub Live Activity</p>
-![](https://github-readme-activity-graph.vercel.app/graph?username=ananda-ranganathan&theme=react-dark)>
+![](https://github-readme-activity-graph.vercel.app/graph?username=ananda-ranganathan&theme=react-dark)
 
-
+<!-- GitHub Stats Ends Here -->
 
 
 
@@ -257,21 +258,7 @@
 
 ---
 
-## 📈 GitHub Activity – Live & Animated
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🚀 What I’m Currently Building
 
@@ -281,21 +268,6 @@
 
 ---
 
-## 🌟 Professional Tagline
-
-<p align="center">
-  <b style="color:#36BCF7">
-    “Transforming Data Into Decisions – One Insight at a Time”
-  </b>
-</p>
-
----
-
-### 🎯 Career Vision
-
-> To blend automation mindset with data science intelligence and build smart, scalable, data-driven solutions.
-
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656948-9c9f69f3-2c2b-4ed3-9b0a-91f3d99f1b8a.gif" width="200">
