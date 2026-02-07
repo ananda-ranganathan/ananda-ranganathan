@@ -229,13 +229,14 @@
 
 # 🏆 GitHub Profile Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=ananda-ranganathan)
+![](https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=onedark)
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ananda-ranganathan)
+![](https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan&theme=tokyonight)
+
 >
 
 
