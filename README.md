@@ -229,21 +229,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- GitHub Stats Ends Here -->
+
+
 # 📊 GitHub Stats:
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananda-ranganathan&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=tokyonight&show_icons=true" width="1000"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=tokyonight&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan&theme=tokyonight" width="1000"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=tokyonight&layout=compact" width="1000"/>
-</p>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan&theme=tokyonight)
 
 
 
