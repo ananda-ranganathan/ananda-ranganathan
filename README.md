@@ -107,111 +107,6 @@
 
 <!-- Tech Stacks Starts Here -->
 
-
-## <p align="center">⚙️ Tech Stack</p>
-
-
-<table width="100%">
-
-<tr>
-<td width="30%"><b>🧑‍💻 Languages & Markup</b></td>
-<td width="80%">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="35%"><b>📊 Data Science & Analytics</b></td>
-<td >
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-
-
-</td>
-</tr>
-
-
-
-<tr>
-<td><b>🗄 Databases & Tools</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>☁️ Cloud & Environment</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge"/>
-
-
-</td>
-</tr>
-
-<tr>
-<td><b>📈 BI & Productivity</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>🤖 Automation & Testing</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge"/>
-
-</td>
-</tr>
-
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-<!-- Tech Stacks Ends Here -->
-
-
-<!-- Fun Facts Starts Here -->
-## <p align="center">⚡ Fun Fact</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=🔍+I+believe+every+dataset+has+a+story+waiting+to+be+told+🧩"
-  />
-</p>
-
----
-
-<!-- Fun Facts Ends Here -->
-
-
-
-
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <table width="100%" cellpadding="18">
@@ -219,7 +114,7 @@
 <tr>
 <td width="40%">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF6F00&repeat=true&width=420&lines=🧑‍💻+Languages+%26+Markup" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF6F00&repeat=true&width=420&lines=🧑‍💻+Programming+%26+Languages" />
 
 </td>
 
@@ -248,27 +143,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </td>
 </tr>
 
-<tr>
-<td>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=2979FF&repeat=true&width=420&lines=🤖+Automation+%26+Testing" />
-
-</td>
-
-<td align="center">
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td>
-</tr>
 
 <tr>
 <td>
@@ -321,7 +199,46 @@
 </td>
 </tr>
 
+
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=2979FF&repeat=true&width=420&lines=🤖+Automation+%26+Testing" />
+
+</td>
+
+<td align="center">
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+</tr>
+
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+<!-- Tech Stacks Ends Here -->
+
+
+<!-- Fun Facts Starts Here -->
+## <p align="center">⚡ Fun Fact</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=🔍+I+believe+every+dataset+has+a+story+waiting+to+be+told+🧩"
+  />
+</p>
+
+---
+
+<!-- Fun Facts Ends Here -->
+
+
+
+
 
 
 
