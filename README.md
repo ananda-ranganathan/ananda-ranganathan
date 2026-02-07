@@ -217,8 +217,6 @@
   />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 <!-- Fun Facts Ends Here -->
 
 <!-- GitHub Stats Starts Here -->
