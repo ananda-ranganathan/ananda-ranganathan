@@ -32,9 +32,9 @@
 <!-- Profile Header Ends Here -->
 
 
-<!-- About Me and FunFact Header Starts Here -->
+<!-- About My Work Header Starts Here -->
 
-## <p align="center">💫 About Me</p>
+## <p align="center">💫 About My Work</p>
 <table>
   <tr>
     <td width="40">🔭</td>
@@ -101,7 +101,7 @@
   
 </table>
 
-<!-- About Me and FunFact Header Ends Here -->
+<!-- About My Work Header Ends Here -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
@@ -135,8 +135,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge"/>
+
 
 </td>
 </tr>
@@ -147,7 +146,6 @@
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge"/>
 
 </td>
@@ -172,7 +170,7 @@
 
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
+
 
 </td>
 </tr>
