@@ -36,7 +36,7 @@
 
 ## <p align="center">💫 About Me</p>
 
-🔭 **I’m currently working on**  
+🔭 <span style="color:#F72585;"><b>I’m currently working on</b></span>  
 End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.
 
 👯 **I’m looking to collaborate on**  
