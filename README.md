@@ -222,19 +222,15 @@
 <!-- Fun Facts Ends Here -->
 
 <!-- GitHub Stats Starts Here -->
-# 📊 GitHub Stats:
+# 📊 GitHub Dashboard
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" height="150">  
-<img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=false" height="150">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananda-ranganathan&theme=github_dark" width="24%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananda-ranganathan&theme=react-dark" width="24%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=onedark&no-frame=true&row=1&column=7" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananda-ranganathan&theme=github_dark" width="24%" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananda-ranganathan&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananda-ranganathan&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananda-ranganathan&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananda-ranganathan&theme=github_dark)
 
 
 
