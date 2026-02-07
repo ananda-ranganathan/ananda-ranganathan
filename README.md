@@ -116,11 +116,7 @@
 
 <!-- Tech Stacks Starts Here -->
 
-<p align="center">
-
-## 💻 Tech Stack <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Rotating_gear.svg" width="36"/>
-
-</p>
+## <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Rotating_gear.svg" width="22"> Tech Stack
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
