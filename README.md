@@ -208,14 +208,18 @@
 ---
 
 <!-- Fun Facts Ends Here -->
+
+
+
+
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<table width="100%" cellpadding="12">
+<table width="100%" cellpadding="18">
 
 <tr>
-<td width="35%">
+<td width="40%">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=FF6F00&repeat=true&width=300&lines=🧑‍💻+Languages+%26+Markup" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF6F00&repeat=true&width=420&lines=🧑‍💻+Languages+%26+Markup" />
 
 </td>
 
@@ -225,7 +229,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </td>
@@ -234,7 +238,7 @@
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00C853&repeat=true&width=300&lines=📊+Data+Science+%26+Analytics" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00C853&repeat=true&width=420&lines=📊+Data+Science+%26+Analytics" />
 
 </td>
 
@@ -243,7 +247,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
@@ -253,7 +257,7 @@
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=2979FF&repeat=true&width=300&lines=🤖+Automation+%26+Testing" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=2979FF&repeat=true&width=420&lines=🤖+Automation+%26+Testing" />
 
 </td>
 
@@ -269,7 +273,7 @@
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=AA00FF&repeat=true&width=300&lines=🗄+Databases+%26+Tools" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=AA00FF&repeat=true&width=420&lines=🗄+Databases+%26+Tools" />
 
 </td>
 
@@ -287,7 +291,7 @@
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=0091EA&repeat=true&width=300&lines=☁+Cloud+%26+Environment" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=0091EA&repeat=true&width=420&lines=☁+Cloud+%26+Environment" />
 
 </td>
 
@@ -303,7 +307,7 @@
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=FFD600&repeat=true&width=300&lines=📈+BI+%26+Productivity" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FFD600&repeat=true&width=420&lines=📈+BI+%26+Productivity" />
 
 </td>
 
@@ -318,6 +322,7 @@
 </tr>
 
 </table>
+
 
 
 
