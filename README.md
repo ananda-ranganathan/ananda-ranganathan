@@ -259,6 +259,9 @@
 
 <img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif" height="30px" style="max-width: 100%; height: auto; max-height: 30px; display: inline-block;" data-target="animated-image.originalImage">
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
 
 ## 🚀 What I’m Currently Building
