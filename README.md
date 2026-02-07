@@ -39,11 +39,10 @@
 
 ⚡ Fun fact  
 
-<div align="center">
+⚡ Fun fact  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=✨+I+believe+every+dataset+has+a+story+waiting+to+be+told…+after+cleaning+🧹📊" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1400&color=06D6A0&vCenter=true&width=900&lines=~+✨+I+believe+every+dataset+has+a+story+waiting+to+be+told+🧩+~" />
 
-</div>
 
 
 
