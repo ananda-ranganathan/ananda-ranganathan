@@ -231,17 +231,19 @@
 <!-- GitHub Stats Ends Here -->
 # 📊 GitHub Stats:
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient" width="1200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=tokyonight&show_icons=true" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient" width="1200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan&theme=tokyonight" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&layout=compact" width="1200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=tokyonight&layout=compact" width="1000"/>
 </p>
+
 
 
 
