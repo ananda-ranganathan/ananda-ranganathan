@@ -227,34 +227,6 @@
 <!-- GitHub Stats Ends Here -->
 
 
-# 🏆 GitHub Profile Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=onedark)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan&theme=tokyonight)
-
->
-
-
-
-
-
-
-
-### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
-🔗 https://github.com/ananda-ranganathan
-
-
-
-
-
-
-
-
 
 ## 🌐 Let’s Connect
 
@@ -275,6 +247,51 @@
 ---
 
 
+# 🤝 Let's Connect
+
+<!-- Lottie Animation -->
+<p align="center">
+  <img src="https://cdn.iconscout.com/lottie/premium/preview/lets-connect-animation-7973985-7973985.json" width="200" />
+</p>
+
+<!-- Social Buttons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananda-ranganathan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ananda-ranganathan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/your-telegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🚀 What I’m Currently Building
 
@@ -284,6 +301,8 @@
 
 ---
 
+### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
+🔗 https://github.com/ananda-ranganathan
 
 
 
