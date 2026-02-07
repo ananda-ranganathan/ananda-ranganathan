@@ -232,6 +232,15 @@
 
 
 
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" width="700"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=false" width="700"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="700"/>
+</p>
 
 
 
