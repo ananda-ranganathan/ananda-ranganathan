@@ -44,6 +44,10 @@
 
 ## 🌟 About Me – In Colors
 
+### 🔭 I’m currently working on
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1200&color=06D6A0&vCenter=true&width=1000&lines=End-to-end+Data+Analytics+%26+Data+Science+projects+using+SQL%2C+Python%2C+Power+BI+and+Machine+Learning;Customer+Churn+Prediction%2C+Segmentation+and+Marketing+Analytics+with+business+storytelling;Building+predictive+models+and+actionable+dashboards+for+real-world+decision+making" />
+</p>
 
 
 
@@ -51,12 +55,10 @@
 
 
 
----
 
 ### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
 🔗 https://github.com/ananda-ranganathan
 
----
 
 
 
