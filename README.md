@@ -118,7 +118,7 @@
 <tr>
 <td width="40%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&text=🧑‍💻+Languages+%26+Markup&animation=blinking&fontSize=22&height=45&color=0:00000000,100:00000000&fontColor=7B1FA2" />
+<img src="https://capsule-render.vercel.app/api?type=rect&lines=🧑‍💻+Languages+%26+Markup&animation=blinking&fontSize=22&height=45&color=0:00000000,100:00000000&fontColor=7B1FA2" />
 
 </td>
 
