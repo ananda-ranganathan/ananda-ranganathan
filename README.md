@@ -43,8 +43,7 @@
 
 
 ## 🌟 About Me – In Colors
-### <img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="28"> I’m currently working on
-
+### <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> I’m currently working on
 
 End-to-end Data Analytics & Data Science work using SQL, Python, Power BI, Statistics, and Machine Learning, focused on delivering actionable business insights and predictive solutions.
 
