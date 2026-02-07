@@ -231,29 +231,13 @@
 <!-- GitHub Stats Ends Here -->
 
 
-<!-- GitHub Stats Section -->
-<!-- GitHub Stats — Wide Layout -->
+<!-- Wide GitHub Stats -->
 
-<table align="center">
-<tr>
-<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&card_width=900" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" width="450"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=false&card_width=900" />
 
-</td>
-<td>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=false" width="450"/>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&layout=compact" width="920"/>
-
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&layout=compact&card_width=900" />
 
 
 
