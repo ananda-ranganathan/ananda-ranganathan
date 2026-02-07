@@ -231,6 +231,27 @@
 <!-- GitHub Stats Ends Here -->
 
 
+<!-- GitHub Stats Section -->
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=false" height="165"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&layout=compact" height="165"/>
+
+</p>
+
+
+
+
+
+
 
 ### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
 🔗 https://github.com/ananda-ranganathan
