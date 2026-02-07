@@ -116,20 +116,6 @@
 <!-- About Me and FunFact Header Ends Here -->
 
 
----
-
-<h2 align="center">💻 Tech Stack &lt;/&gt;</h2>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Rotating_gear.svg" width="70" />
-</p>
-
----
-
-
-
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -164,14 +150,6 @@
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</p>
-
-<!-- Tech Stack Animated Header -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Tech%20Stack%20⚙️&fontSize=36&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 ---
 
