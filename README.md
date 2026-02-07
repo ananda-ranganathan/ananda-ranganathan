@@ -13,7 +13,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&animation=blinking&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence" />
 </p>
 
 <p align="center">
