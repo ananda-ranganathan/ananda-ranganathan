@@ -271,11 +271,8 @@
 ### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
 🔗 https://github.com/ananda-ranganathan
 
-### Thanks for being here — connection is where innovation begins.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="90"/>
-</p>
+<!-- Thank You Greetings Starts Here -->
 
 <p align="center">
   <b>Thanks for being here — connection is where innovation begins.</b>
@@ -285,3 +282,4 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </p>
 
+<!-- Thank You Greetings Ends Here -->
