@@ -269,9 +269,7 @@
 ---
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656948-9c9f69f3-2c2b-4ed3-9b0a-91f3d99f1b8a.gif" width="200">
-</p>
+
 
 <p align="center">
   <b>✨ Thanks for visiting! Let’s build something amazing together ✨</b>
