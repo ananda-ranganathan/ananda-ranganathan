@@ -20,9 +20,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=06D6A0&center=true&vCenter=true&width=950&lines=Engineer+by+Experience!!!+⚡+Data+Scientist+by+AI+Vision!!!" />
 </p>
 
+---
+
+<!-- Animated Profile Views -->
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&label=PROFILE+VISITS&color=brightgreen&style=for-the-badge" />
 </p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
