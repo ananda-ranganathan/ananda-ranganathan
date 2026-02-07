@@ -123,12 +123,16 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -136,11 +140,15 @@
 
 <br>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -148,9 +156,13 @@
 
 <br>
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -158,11 +170,15 @@
 
 <br>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -170,8 +186,12 @@
 
 <br>
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -179,9 +199,13 @@
 
 <br>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge"/>
+
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
