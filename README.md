@@ -232,20 +232,29 @@
 
 
 <!-- GitHub Stats Section -->
+<!-- GitHub Stats — Wide Layout -->
+
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" width="450"/>
+
+</td>
+<td>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=false" width="450"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&layout=compact" width="920"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&layout=compact" height="165"/>
-
-</p>
 
 
 
