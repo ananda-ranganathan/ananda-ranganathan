@@ -128,7 +128,7 @@
 </tr>
 
 <tr>
-<td width="30%"><b>📊 Data Science & Analytics</b></td>
+<td width="50%"><b>📊 Data Science & Analytics</b></td>
 <td width="70%">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
@@ -140,16 +140,7 @@
 </td>
 </tr>
 
-<tr>
-<td><b>🤖 Automation & Testing</b></td>
-<td>
 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge"/>
-
-</td>
-</tr>
 
 <tr>
 <td><b>🗄 Databases & Tools</b></td>
@@ -183,6 +174,17 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 Automation & Testing</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge"/>
 
 </td>
 </tr>
