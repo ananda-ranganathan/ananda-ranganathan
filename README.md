@@ -247,27 +247,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-lightgrey?style=for-the-badge)
 ![Scikit](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
 
 </td>
 </tr>
 
-<tr>
-<td>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=2979FF&repeat=true&width=260&lines=🤖+Automation+%26+Testing" />
-
-</td>
-
-<td align="center">
-
-![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-brightgreen?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
-
-</td>
-</tr>
 
 <tr>
 <td>
@@ -320,6 +303,22 @@
 </td>
 </tr>
 
+
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=2979FF&repeat=true&width=260&lines=🤖+Automation+%26+Testing" />
+
+</td>
+
+<td align="center">
+
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-brightgreen?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+
+</td>
+</tr>
 </table>
 
 <!-- ================= END ================= -->
