@@ -232,6 +232,28 @@
 ![](https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
+![](https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=radical&no-frame=true&row=1&column=7)
+
+![](https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=onedark&no-frame=true&row=1&column=7)
+
+# 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+
+# 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=tokyonight&show_icons=true" />
+</p>
 
 
 
