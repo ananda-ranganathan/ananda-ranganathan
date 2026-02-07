@@ -178,6 +178,9 @@
 <!-- Tech Stacks Ends Here -->
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%">
+</p>
 
 
 
