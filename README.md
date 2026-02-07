@@ -43,8 +43,8 @@
 
 
 ## 🌟 About Me – In Colors
-### 🔭 I’m 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1200&color=4CC9F0&vCenter=true&width=320&lines=currently+working+on" />
+### 🔭  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1200&color=4CC9F0&vCenter=true&width=320&lines=I'm+currently+working+on" />
 
 End-to-end Data Analytics & Data Science work using SQL, Python, Power BI, Statistics, and Machine Learning, focused on delivering actionable business insights and predictive solutions.
 
