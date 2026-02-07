@@ -34,14 +34,6 @@
 - 📊 Passionate about AI, ML and Automation
 - 🚀 Transforming ideas into intelligent solutions
 
----
-
-<!-- Animated Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&label=PROFILE+VISITS&color=brightgreen&style=for-the-badge" />
-</p>
-
----
 
 ## 🌟 About Me – In Colors
 
