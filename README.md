@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=30&animation=twinkling" />
-
-  <img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&label=PROFILE+VISITS&color=brightgreen&style=for-the-badge" />
 </p> 
 
 <p align="center">
