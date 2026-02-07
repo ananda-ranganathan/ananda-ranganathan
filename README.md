@@ -245,15 +245,12 @@
 </p>
 
 ---
-
 # 🤝 Let's Connect
 
-<!-- Lottie Animation Preview -->
 <p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/preview/lets-connect-animation-8370637-8370637.json" width="200" />
+  <img src="https://cdn.iconscout.com/lottie/premium/thumb/lets-connect-animation-8370637-8370637.png" width="200" />
 </p>
 
-<!-- Social Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ananda-ranganathan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -271,10 +268,6 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
-
-
-
 
 
 
