@@ -229,15 +229,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" width="700"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=false" width="700"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="700"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananda-ranganathan&theme=github_dark)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ananda-ranganathan&theme=react-dark)
+
+![](https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=onedark&no-frame=true&row=1&column=7)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananda-ranganathan&theme=github_dark)
+
 
 
 
