@@ -208,6 +208,83 @@
 
 
 
+
+
+## ⚙️ Tech Stack
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+<h2>🧑‍💻 Languages & Markup</h2>
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge)
+
+<br><br>
+
+<h2>📊 Data Science & Analytics</h2>
+
+<br>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
+
+<br><br>
+
+<h2>🤖 Automation & Testing</h2>
+
+<br>
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)
+
+<br><br>
+
+<h2>🗄 Databases & Tools</h2>
+
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+
+<br><br>
+
+<h2>☁️ Cloud & Environment</h2>
+
+<br>
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge)
+
+<br><br>
+
+<h2>📈 BI & Productivity</h2>
+
+<br>
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+
+
+
 ### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
 🔗 https://github.com/ananda-ranganathan
 
