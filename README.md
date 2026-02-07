@@ -63,6 +63,20 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
 
 <!-- About Me and FunFact Header Ends Here -->
 
+🔭 <span style="color:#F72585;"><b>I’m currently working on</b></span>  
+
+👯 <span style="color:#4CC9F0;"><b>I’m looking to collaborate on</b></span>  
+
+🤝 <span style="color:#7209B7;"><b>I’m looking for help with</b></span>  
+
+🌱 <span style="color:#06D6A0;"><b>I’m currently learning</b></span>  
+
+💬 <span style="color:#FFD166;"><b>Ask me about</b></span>  
+
+
+
+
+
 
 
 
