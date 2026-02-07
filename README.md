@@ -33,15 +33,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
-<!-- END of Animated Name Banner -->
----
-<!-- Wave Image -->
-<img src="YOUR_WAVE_IMAGE_URL" width="100%" />
-
-<!-- Profile Views Badge -->
-<p align="center" style="margin-top:-45px;">
-  <img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&color=green" />
-</p>
 
 
 ### 💡 About Me
