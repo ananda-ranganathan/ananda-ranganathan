@@ -84,6 +84,7 @@
 </table>
 
 ---
+
 ## <p align="center">⚡ Fun fact</p>
 
 <p align="center">
@@ -91,7 +92,10 @@
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=✨+I+believe+every+dataset+has+a+story+waiting+to+be+told"
   />
 </p>
+
 ---
+
+
 <!-- About Me and FunFact Header Ends Here -->
 
 
