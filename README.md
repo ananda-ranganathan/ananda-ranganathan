@@ -248,29 +248,22 @@
 # 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/thumb/lets-connect-animation-8370637-8370637.png" width="200" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ananda-ranganathan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧 Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ananda-ranganathan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐙 GitHub%20Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/📸 Instagram%20Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://t.me/your-telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/✈️ Telegram%20Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ananda-ranganathan" target="_blank">
+    <img src="https://img.shields.io/badge/💼 LinkedIn%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
-
 
 
 
