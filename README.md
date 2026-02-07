@@ -111,8 +111,6 @@
   />
 </p>
 
----
-
 <!-- About Me and FunFact Header Ends Here -->
 
 
