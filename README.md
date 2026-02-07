@@ -36,45 +36,6 @@
 
 ## <p align="center">💫 About Me</p>
 
-🔭 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=F72585&vCenter=true&width=420&lines=I’m+currently+working+on" />
-End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.
-
-👯 **I’m looking to collaborate on**  
-Data Analytics, Data Science, and Machine Learning projects focused on customer analytics, churn prediction, segmentation, and marketing performance.
-
-🤝 **I’m looking for help with**  
-Advanced Machine Learning techniques, MLOps fundamentals, and practical applications of Generative AI in analytics workflows.
-
-🌱 **I’m currently learning**  
-Advanced SQL, Statistics, Machine Learning, Predictive Modeling, and Generative AI for intelligent analytics solutions.
-
-💬 **Ask me about**  
-SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.
-
----
-## <p align="center">⚡ Fun fact</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=✨+I+believe+every+dataset+has+a+story+waiting+to+be+told"
-  />
-</p>
----
-
-<!-- About Me and FunFact Header Ends Here -->
-
-🔭 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=F72585&vCenter=true&width=420&lines=I’m+currently+working+on" />
-
-👯 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=4CC9F0&vCenter=true&width=460&lines=I’m+looking+to+collaborate+on" />
-
-🤝 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=7209B7&vCenter=true&width=420&lines=I’m+looking+for+help+with" />
-
-🌱 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=06D6A0&vCenter=true&width=420&lines=I’m+currently+learning" />
-
-💬 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=FFD166&vCenter=true&width=300&lines=Ask+me+about" />
-
-## <p align="center">💫 About Me</p>
-
 <table>
   <tr>
     <td width="40">🔭</td>
@@ -123,7 +84,6 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
 </table>
 
 ---
-
 ## <p align="center">⚡ Fun fact</p>
 
 <p align="center">
@@ -131,45 +91,8 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=✨+I+believe+every+dataset+has+a+story+waiting+to+be+told"
   />
 </p>
-
-
-<table>
-<tr>
-  <td>🔭</td>
-  <td>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=F72585&vCenter=true&lines=I’m+currently+working+on" />
-  </td>
-</tr>
-<tr>
-  <td>👯</td>
-  <td>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=4CC9F0&vCenter=true&lines=I’m+looking+to+collaborate+on" />
-  </td>
-</tr>
-<tr>
-  <td>🤝</td>
-  <td>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=7209B7&vCenter=true&lines=I’m+looking+for+help+with" />
-  </td>
-</tr>
-<tr>
-  <td>🌱</td>
-  <td>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=06D6A0&vCenter=true&lines=I’m+currently+learning" />
-  </td>
-</tr>
-<tr>
-  <td>💬</td>
-  <td>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=FFD166&vCenter=true&lines=Ask+me+about" />
-  </td>
-</tr>
-</table>
-
-
-
-
-
+---
+<!-- About Me and FunFact Header Ends Here -->
 
 
 
