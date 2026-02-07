@@ -246,12 +246,11 @@
 
 ---
 
-
 # 🤝 Let's Connect
 
-<!-- Lottie Animation -->
+<!-- Lottie Animation Preview -->
 <p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/preview/lets-connect-animation-7973985-7973985.json" width="200" />
+  <img src="https://cdn.iconscout.com/lottie/premium/preview/lets-connect-animation-8370637-8370637.json" width="200" />
 </p>
 
 <!-- Social Buttons -->
@@ -272,9 +271,6 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
-
-
 
 
 
