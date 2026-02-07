@@ -116,10 +116,7 @@
 <!-- About Me and FunFact Header Ends Here -->
 
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<!-- Tech Stacks Starts Here -->
 
 <p align="center">
 
@@ -161,7 +158,7 @@
 
 ---
 
-
+<!-- Tech Stacks Ends Here -->
 
 
 
