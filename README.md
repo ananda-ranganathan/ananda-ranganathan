@@ -219,11 +219,8 @@
 
 
 
-<p align="center">
-  <span style="background: linear-gradient(to right, #ff6ec4, #7873f5, #4ade80); -webkit-background-clip: text; color: transparent; font-size: 20px;">
-    ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
-  </span>
-</p>
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #ff6ec4, #7873f5, #4ade80);" />
+
 
 
 
