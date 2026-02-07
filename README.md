@@ -208,28 +208,25 @@
 ---
 
 <!-- Fun Facts Ends Here -->
-
-<!-- ================= TECH STACK ================= -->
-
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<table width="100%">
+<table width="100%" cellpadding="12">
 
 <tr>
 <td width="35%">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=FF6F00&repeat=true&width=260&lines=🧑‍💻+Languages+%26+Markup" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=FF6F00&repeat=true&width=300&lines=🧑‍💻+Languages+%26+Markup" />
 
 </td>
 
 <td align="center">
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </td>
 </tr>
@@ -237,35 +234,18 @@
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00C853&repeat=true&width=260&lines=📊+Data+Science+%26+Analytics" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00C853&repeat=true&width=300&lines=📊+Data+Science+%26+Analytics" />
 
 </td>
 
 <td align="center">
 
-![NumPy](https://img.shields.io/badge/NumPy-teal?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-lightgrey?style=for-the-badge)
-![Scikit](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge)
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=AA00FF&repeat=true&width=260&lines=🗄+Databases+%26+Tools" />
-
-</td>
-
-<td align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-navy?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </td>
 </tr>
@@ -273,15 +253,15 @@
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=0091EA&repeat=true&width=260&lines=☁+Cloud+%26+Environment" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=2979FF&repeat=true&width=300&lines=🤖+Automation+%26+Testing" />
 
 </td>
 
 <td align="center">
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge)
-![Anaconda](https://img.shields.io/badge/Anaconda-green?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </td>
 </tr>
@@ -289,39 +269,55 @@
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=FFD600&repeat=true&width=260&lines=📈+BI+%26+Productivity" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=AA00FF&repeat=true&width=300&lines=🗄+Databases+%26+Tools" />
 
 </td>
 
 <td align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge)
-![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-teal?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </td>
 </tr>
-
 
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=2979FF&repeat=true&width=260&lines=🤖+Automation+%26+Testing" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=0091EA&repeat=true&width=300&lines=☁+Cloud+%26+Environment" />
 
 </td>
 
 <td align="center">
 
-![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-brightgreen?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
 </tr>
+
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=FFD600&repeat=true&width=300&lines=📈+BI+%26+Productivity" />
+
+</td>
+
+<td align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</td>
+</tr>
+
 </table>
-
-<!-- ================= END ================= -->
 
 
 
