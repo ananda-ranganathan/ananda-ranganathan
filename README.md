@@ -160,6 +160,19 @@
 </p>
 
 
+💻 Tech Stack </>
+<!-- Animated section header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Tech%20Stack%20⚙️&height=60&fontSize=34&animation=fadeIn" />
+</p>
+
+<!-- Center animated divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+
+---
+
 
 
 
