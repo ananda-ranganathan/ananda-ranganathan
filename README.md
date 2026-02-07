@@ -39,7 +39,7 @@
 
 ⚡ Fun fact  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=FFD166&center=false&vCenter=true&width=900&lines=%E2%9C%A8+I+believe+every+dataset+has+a+story+waiting+to+be+told+%F0%9F%A7%A9" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=F72585&vCenter=true&width=900&lines=%E2%9C%A8+I+believe+every+dataset+has+a+story+waiting+to+be+told+%F0%9F%A7%A9" />
 
 
 
