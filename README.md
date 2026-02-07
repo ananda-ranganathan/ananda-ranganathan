@@ -72,7 +72,6 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
 🌱 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=06D6A0&vCenter=true&width=420&lines=I’m+currently+learning" />
 
 💬 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=FFD166&vCenter=true&width=300&lines=Ask+me+about" />
-
 <table>
   <tr>
     <td width="40">🔭</td>
@@ -113,7 +112,7 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
   <tr>
     <td>💬</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=FFD166&vCenter=true&lines=Ask+me+about" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=F77F00&vCenter=true&lines=Ask+me+about" />
       <br/>
       SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.
     </td>
