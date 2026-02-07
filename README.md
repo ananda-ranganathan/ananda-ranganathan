@@ -118,8 +118,8 @@
 <tr>
 <td width="40%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&lines=🧑‍💻+Languages+%26+Markup&animation=blinking&fontSize=22&height=45&color=0:00000000,100:00000000&fontColor=7B1FA2" />
 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=AA00FF&repeat=true&width=420&lines=🧑‍💻+Languages+%26+Markup" />
 </td>
 
 <td align="center">
