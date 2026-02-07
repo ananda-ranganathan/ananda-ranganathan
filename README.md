@@ -35,11 +35,11 @@
 <!-- Profile Header Ends Here -->
 
 # 💫 About Me:
-🔭 I’m currently working on  <br>End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.<br><br>👯 I’m looking to collaborate on  <br>Data Analytics, Data Science, and Machine Learning projects focused on customer analytics, churn prediction, segmentation, and marketing performance.<br><br>🤝 I’m looking for help with  <br>Advanced Machine Learning techniques, MLOps fundamentals, and practical applications of Generative AI in analytics workflows.<br><br>🌱 I’m currently learning  <br>Advanced SQL, Statistics, Machine Learning, Predictive Modeling, and Generative AI for intelligent analytics solutions.<br><br>💬 Ask me about  <br>SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.<br><br>
-
+🔭 I’m currently working on  <br>End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.<br><br>👯 I’m looking to collaborate on  <br>Data Analytics, Data Science, and Machine Learning projects focused on customer analytics, churn prediction, segmentation, and marketing performance.<br><br>🤝 I’m looking for help with  <br>Advanced Machine Learning techniques, MLOps fundamentals, and practical applications of Generative AI in analytics workflows.<br><br>🌱 I’m currently learning  <br>Advanced SQL, Statistics, Machine Learning, Predictive Modeling, and Generative AI for intelligent analytics solutions.<br><br>💬 Ask me about  <br>SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.<br>
 ⚡ Fun fact  
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=F72585&vCenter=true&width=900&lines=%E2%9C%A8+I+believe+every+dataset+has+a+story+waiting+to+be+told+%F0%9F%A7%A9" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&vCenter=true&width=900&lines=%E2%9C%A8+I+believe+every+dataset+has+a+story+waiting+to+be+told+%F0%9F%A7%A9" />
+</p>
 
 
 
