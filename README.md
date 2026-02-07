@@ -232,6 +232,13 @@
 
 
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&card_width=1000)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=ananda-ranganathan&theme=ambient_gradient&hide_border=false&card_width=1000)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=1000)
 
 
 
