@@ -115,7 +115,7 @@
 
 
 --------------------
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Tech%20Stack%20⚙️&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Tech%20Stack%20⚙️&fontSize=36&fontColor=ffffff" />
 
 --------------
 
