@@ -44,18 +44,78 @@
 
 ## 🌟 About Me – In Colors
 
+## 💼 Work
+
+<!-- Twinkling Section Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-6fca5b9e-1e5d-4e41-9a14-1c4b7f3e0c5a.gif" width="400">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=What+I%E2%80%99m+Working+On+%F0%9F%9A%80" />
 </p>
 
-- 🔭 **Current Role:** Automation Test Engineer  
-- 🌱 **Learning:** Data Science, Machine Learning, AI  
-- 🎯 **Career Goal:** Transition into Full-Time Data Scientist  
-- 🤝 **Looking to Collaborate:** Analytics & ML Projects  
-- 💬 **Ask me about:** Python, Selenium, SQL, Analytics  
-- 📫 **Reach me:** *anandaranganathanharikrishnan@gmail.com*
+
+
 
 ---
+
+### 🔭 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="25"> I’m currently working on
+**End-to-end Data Analytics & Data Science projects**  
+(SQL • Python • Power BI • Machine Learning)  
+➡️ Customer Churn • Segmentation • Marketing Analytics  
+🔗 https://github.com/ananda-ranganathan
+
+---
+
+### 👯 <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="25"> I’m looking to collaborate on
+**Data Analytics / Data Science / ML projects**  
+focused on **real-world business impact**  
+🔗 https://github.com/ananda-ranganathan
+
+---
+
+### 🤝 <img src="https://media.giphy.com/media/3o6ZsZKn8n9P8pFqLu/giphy.gif" width="25"> I’m looking for help with
+**Advanced Machine Learning, MLOps & Generative AI**  
+(model deployment, scalable pipelines)
+
+---
+
+### 🌱 <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="25"> I’m currently learning
+Advanced SQL • Statistics • Machine Learning  
+Generative AI • Predictive Modeling • AI-driven Analytics
+
+---
+
+### 💬 <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="25"> Ask me about
+SQL • Python • EDA • Power BI  
+Customer Analytics • Churn Prediction • Segmentation
+
+---
+
+### 📫 <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6u7P/giphy.gif" width="25"> How to reach me
+📧 anandaranganathanharikrishnan@gmail.com  
+📎 https://www.linkedin.com/in/ananda-ranganathan/
+
+---
+
+### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
+🔗 https://github.com/ananda-ranganathan
+
+---
+
+### 📄 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> Know about my experiences
+📄 Resume  
+🔗 https://drive.google.com/file/d/13boGuFAwf9P2diUv-fCmnuWIXxNAVOau/view
+
+---
+
+### ⚡ <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="25"> Fun fact
+> *I believe every dataset has a story waiting to be told 📊✨*
+
+
+---
+
+
+
+
+
 
 ## 🎨 Fun Facts – With Style
 
