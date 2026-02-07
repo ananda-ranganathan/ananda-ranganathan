@@ -24,7 +24,7 @@
 
 <!-- Animated Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&label=PROFILE+VISITS&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&label=PROFILE+VISITS&color=brightgreen&style=for-the-badge&animation=blinking" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
@@ -235,34 +235,6 @@
 ---
 
 <!-- Fun Facts Ends Here -->
-
-
-
-## 🎬 Animation Sentence Demo
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true" />
-
-### ⌨ Typing Demo
-
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&width=600&lines=I+love+building+data+projects;Automation+makes+life+easy;Always+learning+new+tech" />
-
-### ✨ fadeIn
-<img src="https://capsule-render.vercel.app/api?type=rect&text=Building%20cool%20projects%20every%20day&animation=fadeIn&fontSize=22" />
-
----
-
-### 🌟 twinkling
-<img src="https://capsule-render.vercel.app/api?type=rect&text=Turning%20data%20into%20insight&animation=twinkling&fontSize=22" />
-
----
-
-### ⚡ blinking
-<img src="https://capsule-render.vercel.app/api?type=rect&text=Code.%20Analyze.%20Innovate.&animation=blinking&fontSize=22" />
-
----
-
-### 🚀 scaleIn
-<img src="https://capsule-render.vercel.app/api?type=rect&text=Learning%20never%20stops&animation=scaleIn&fontSize=22" />
 
 
 
