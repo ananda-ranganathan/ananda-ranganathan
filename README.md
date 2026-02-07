@@ -1,4 +1,6 @@
  
+
+ 
 <!-- Profile Header Starts Here -->
 <!-- Animated Name Banner -->
 
@@ -10,6 +12,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=30&animation=twinkling" />
 </p> 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=950&lines=Think+Data.+Build+AI." />
@@ -104,6 +109,8 @@
 
 <!-- Tech Stacks Starts Here -->
 
+
+
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <table width="100%" cellpadding="18">
@@ -111,7 +118,7 @@
 <tr>
 <td width="40%">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF6F00&repeat=true&width=420&lines=🧑‍💻+Programming+%26+Languages" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF6F00&repeat=true&width=420&lines=🧑‍💻+Languages+%26+Markup" />
 
 </td>
 
@@ -140,10 +147,27 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </td>
 </tr>
 
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=2979FF&repeat=true&width=420&lines=🤖+Automation+%26+Testing" />
+
+</td>
+
+<td align="center">
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+</tr>
 
 <tr>
 <td>
@@ -192,23 +216,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=2979FF&repeat=true&width=420&lines=🤖+Automation+%26+Testing" />
-
-</td>
-
-<td align="center">
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </td>
 </tr>
