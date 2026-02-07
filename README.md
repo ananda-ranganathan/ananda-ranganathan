@@ -24,15 +24,7 @@
 
 <!-- Animated Profile Views -->
 <p align="center">
-<h3 align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&text=👀%20Profile%20Visits&animation=blinking&fontSize=22&height=40" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&label=PROFILE+VISITS&color=brightgreen&style=for-the-badge" />
-
-</h3>
+  <img src="https://komarev.com/ghpvc/?username=ananda-ranganathan&label=PROFILE+VISITS&color=brightgreen&style=for-the-badge" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
