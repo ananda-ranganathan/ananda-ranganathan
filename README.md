@@ -239,6 +239,9 @@
 
 
 ## 🎬 Animation Sentence Demo
+### ⌨ Typing Demo
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&width=600&lines=I+love+building+data+projects;Automation+makes+life+easy;Always+learning+new+tech" />
 
 ### ✨ fadeIn
 <img src="https://capsule-render.vercel.app/api?type=rect&text=Building%20cool%20projects%20every%20day&animation=fadeIn&fontSize=22" />
