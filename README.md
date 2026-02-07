@@ -222,7 +222,7 @@
 <!-- Fun Facts Ends Here -->
 
 <!-- GitHub Stats Starts Here -->
-
+## <p align="center">🔥 GitHub Live Activity</p>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ananda-ranganathan&theme=react-dark)>
 
 
