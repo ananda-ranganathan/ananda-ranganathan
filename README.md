@@ -147,24 +147,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=2979FF&repeat=true&width=420&lines=🤖+Automation+%26+Testing" />
-
-</td>
-
-<td align="center">
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </td>
 </tr>
@@ -209,6 +192,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FFD600&repeat=true&width=420&lines=📈+BI+%26+Productivity" />
 
 </td>
+
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=2979FF&repeat=true&width=420&lines=🤖+Automation+%26+Testing" />
+
+</td>
+
+<td align="center">
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+</tr>
 
 <td align="center">
 
