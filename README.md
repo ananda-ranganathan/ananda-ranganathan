@@ -1,7 +1,7 @@
 <!-- Animated Name Banner -->
 
   <h1 align="center">
-  Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"&text=I'm>
+  Hi, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1> 
 
 <p align="center">
