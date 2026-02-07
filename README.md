@@ -233,11 +233,12 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananda-ranganathan&theme=tokyonight)
-
 ![](https://github-readme-stats.vercel.app/api?username=ananda-ranganathan&theme=tokyonight&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ananda-ranganathan&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-ranganathan&theme=tokyonight&layout=compact)
+
 
 
 
