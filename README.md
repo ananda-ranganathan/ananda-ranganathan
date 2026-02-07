@@ -123,9 +123,10 @@
 
 <p align="center">
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" width="28"> Tech Stack
+## <img src="https://img.icons8.com/ios-filled/50/00FFFF/settings.png" width="26"/> Tech Stack
 
 </p>
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
