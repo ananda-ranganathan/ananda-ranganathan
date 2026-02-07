@@ -257,12 +257,7 @@
 
 <!-- Lets Connect Ends Here -->
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/preview/lets-connect-animation-8370637-6680066.gif" width="350"/>
-</p>
-
+<img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif" height="30px" style="max-width: 100%; height: auto; max-height: 30px; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
