@@ -116,6 +116,14 @@
 <!-- About Me and FunFact Header Ends Here -->
 
 
+## 🚀 Tech Stack </>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,mysql,postgres,linux,git,azure,gcp&theme=dark" />
+</p>
+>
+
+
 ### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
 🔗 https://github.com/ananda-ranganathan
 
