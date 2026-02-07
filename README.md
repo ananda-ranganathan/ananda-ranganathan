@@ -242,34 +242,6 @@
 
 ---
 
-## 🛠 Tech Arsenal – Animated Stack
-
-### 💻 Programming
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,sql" />
-</p>
-
-### 📊 Data Science & Analytics
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,matplotlib" />
-</p>
-
-### 🤖 Automation Testing
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=selenium,java,maven,jenkins,git" />
-</p>
-
-### 🗄 Databases & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
-</p>
-
----
-
 ## 📈 GitHub Activity – Live & Animated
 
 <p align="center">
