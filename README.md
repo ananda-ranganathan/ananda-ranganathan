@@ -116,12 +116,30 @@
 <!-- About Me and FunFact Header Ends Here -->
 
 
-
-# 💻 Tech Stack </>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:203a43&height=90&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+
+## Tech Stack
+<svg width="22" height="22" viewBox="0 0 24 24" style="vertical-align: middle;">
+  <g>
+    <path fill="currentColor" d="M19.14,12.94c.04-.31,.06-.63,.06-.94s-.02-.63-.07-.94l2.03-1.58c.18-.14,.23-.4,.12-.61l-1.92-3.32c-.11-.22-.37-.3-.59-.22l-2.39,.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54c-.03-.24-.24-.42-.49-.42h-3.84c-.25,0-.46,.18-.49,.42l-.36,2.54c-.59,.24-1.13,.56-1.62,.94l-2.39-.96c-.22-.09-.48,0-.59,.22l-1.92,3.32c-.11,.21-.06,.47,.12,.61l2.03,1.58c-.05,.31-.07,.63-.07,.94s.02,.63,.07,.94l-2.03,1.58c-.18,.14-.23,.4-.12,.61l1.92,3.32c.11,.22,.37,.3,.59,.22l2.39-.96c.5,.38,1.03,.7,1.62,.94l.36,2.54c.03,.24,.24,.42,.49,.42h3.84c.25,0,.46-.18,.49-.42l.36-2.54c.59-.24,1.13-.56,1.62-.94l2.39,.96c.22,.09,.48,0,.59-.22l1.92-3.32c.11-.21,.06-.47-.12-.61l-2.03-1.58ZM12,15.5c-1.93,0-3.5-1.57-3.5-3.5s1.57-3.5,3.5-3.5,3.5,1.57,3.5,3.5-1.57,3.5-3.5,3.5Z"/>
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 12 12"
+      to="360 12 12"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </g>
+</svg>
+
 </p>
+
+---
+
+
+
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
