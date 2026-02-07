@@ -112,12 +112,13 @@
 
 <!-- About Me and FunFact Header Ends Here -->
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 <!-- Tech Stacks Starts Here -->
 
 ## <p align="center">⚙️ Tech Stack</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
 
 **🧑‍💻 Languages & Markup**
 
