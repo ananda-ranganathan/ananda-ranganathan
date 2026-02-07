@@ -73,12 +73,11 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
 
 💬 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=FFD166&vCenter=true&width=300&lines=Ask+me+about" />
 
-
 <table>
   <tr>
     <td width="40">🔭</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Italic&size=17&pause=1200&color=F72585&vCenter=true&lines=I’m+currently+working+on" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=F72585&vCenter=true&lines=I’m+currently+working+on" />
       <br/>
       End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.
     </td>
@@ -87,7 +86,7 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
   <tr>
     <td>👯</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Italic&size=17&pause=1200&color=4CC9F0&vCenter=true&lines=I’m+looking+to+collaborate+on" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=4CC9F0&vCenter=true&lines=I’m+looking+to+collaborate+on" />
       <br/>
       Data Analytics, Data Science, and Machine Learning projects focused on customer analytics, churn prediction, segmentation, and marketing performance.
     </td>
@@ -96,7 +95,7 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
   <tr>
     <td>🤝</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Italic&size=17&pause=1200&color=9D4EDD&vCenter=true&lines=I’m+looking+for+help+with" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=9D4EDD&vCenter=true&lines=I’m+looking+for+help+with" />
       <br/>
       Advanced Machine Learning techniques, MLOps fundamentals, and practical applications of Generative AI in analytics workflows.
     </td>
@@ -105,7 +104,7 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
   <tr>
     <td>🌱</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Italic&size=17&pause=1200&color=06D6A0&vCenter=true&lines=I’m+currently+learning" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=06D6A0&vCenter=true&lines=I’m+currently+learning" />
       <br/>
       Advanced SQL, Statistics, Machine Learning, Predictive Modeling, and Generative AI for intelligent analytics solutions.
     </td>
@@ -114,7 +113,7 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
   <tr>
     <td>💬</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Italic&size=17&pause=1200&color=FFD166&vCenter=true&lines=Ask+me+about" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=FFD166&vCenter=true&lines=Ask+me+about" />
       <br/>
       SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.
     </td>
