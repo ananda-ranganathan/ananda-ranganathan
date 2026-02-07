@@ -217,14 +217,7 @@
   />
 </p>
 
-
-<hr style="border: none; height: 3px; background: linear-gradient(to right, #ff6ec4, #7873f5, #4ade80);" />
-
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 <!-- Fun Facts Ends Here -->
 
