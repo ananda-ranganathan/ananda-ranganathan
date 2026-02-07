@@ -212,6 +212,58 @@
 
 
 
+## ⚙️ Tech Stack
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:00C4CC&height=45&section=header&text=🧑‍💻%20Languages%20%26%20Markup&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6F00,100:F7931E&height=45&section=header&text=📊%20Data%20Science%20%26%20Analytics&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:43B02A,100:25A162&height=45&section=header&text=🤖%20Automation%20%26%20Testing&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4479A1,100:007ACC&height=45&section=header&text=🗄%20Databases%20%26%20Tools&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:44A833&height=45&section=header&text=☁️%20Cloud%20%26%20Environment&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2C811,100:217346&height=45&section=header&text=📈%20BI%20%26%20Productivity&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
+
+
+
+
 
 
 ### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
