@@ -80,7 +80,28 @@
       SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.
     </td>
   </tr>
+
+  <tr>
+    <td>📝</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=8338EC&vCenter=true&lines=I+regularly+write+articles+on" />
+      <br/>
+      Medium / Technical Blogs (Data Analytics & Data Science)
+    </td>
+  </tr>
+
+  <tr>
+    <td>📄</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=EF476F&vCenter=true&lines=Know+about+my+experiences" />
+      <br/>
+      Resume & professional journey in Data Analytics and Data Science
+    </td>
+  </tr>
+  
 </table>
+
+
 
 ---
 
