@@ -34,8 +34,7 @@
 
 <!-- About Me and FunFact Header Starts Here -->
 
-## </p align="center">💫 About Me</p> >
-
+## <p align="center">💫 About Me</p>
 <table>
   <tr>
     <td width="40">🔭</td>
