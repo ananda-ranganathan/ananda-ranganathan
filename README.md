@@ -229,9 +229,8 @@
 ## <p align="center">⚡ Fun Fact</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=🔍%20I%20believe%20every%20dataset%20has%20a%20story&animation=blinking&fontSize=22&height=45&color=0:7B1FA2,100:AB47BC" />
+<img src="https://capsule-render.vercel.app/api?type=rect&text=🔍%20I%20believe%20every%20dataset%20has%20a%20story&animation=blinking&fontSize=22&height=45&color=0:00000000,100:00000000&fontColor=7B1FA2" />
 
-  />
 </p>
 
 ---
