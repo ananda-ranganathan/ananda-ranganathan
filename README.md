@@ -239,6 +239,7 @@
 <!-- Fun Facts Ends Here -->
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&text=🧑‍💻%20Languages%20%26%20Markup&animation=blinking&fontSize=22&height=40" />
 
 
 
