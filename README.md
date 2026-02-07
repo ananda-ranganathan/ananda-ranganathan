@@ -133,23 +133,6 @@
 </td>
 </tr>
 
-<tr>
-<td>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00C853&repeat=true&width=420&lines=📊+Data+Science+%26+Analytics" />
-
-</td>
-
-<td align="center">
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-</td>
-</tr>
 
 <tr>
 <td>
@@ -165,6 +148,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00C853&repeat=true&width=420&lines=📊+Data+Science+%26+Analytics" />
+
+</td>
+
+<td align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 </td>
 </tr>
