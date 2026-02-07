@@ -119,6 +119,7 @@
 <td width="40%">
 
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF6F00&repeat=true&width=420&lines=🧑‍💻+Languages+%26+Markup" />
+<img src="https://capsule-render.vercel.app/api?type=rect&text=🔍%20I%20believe%20every%20dataset%20has%20a%20story&animation=blinking&fontSize=22&height=45&color=0:00000000,100:00000000&fontColor=7B1FA2" />
 
 </td>
 
