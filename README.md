@@ -121,7 +121,12 @@
 
 <!-- Tech Stacks Starts Here -->
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Rotating_gear.svg" width="22"> Tech Stack
+<p align="center">
+
+## <img src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" width="28"> Tech Stack
+
+</p>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
