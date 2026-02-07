@@ -228,7 +228,14 @@
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=ambient_gradient&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ananda-ranganathan&theme=ambient_gradient&no-frame=true&margin-w=15&margin-h=15&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+
+
+
+
 
 
 
