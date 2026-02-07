@@ -230,7 +230,8 @@
 
 <!-- Lets Connect starts Here -->
 
-## 🌐 Let’s Connect
+## <p align="center"> Let's Connect, <img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif" height="30px" style="max-width: 100%; height: auto; max-height: 30px; display: inline-block;" data-target="animated-image.originalImage"></p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ananda-ranganathan/">
@@ -257,11 +258,10 @@
 
 <!-- Lets Connect Ends Here -->
 
-<img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif" height="30px" style="max-width: 100%; height: auto; max-height: 30px; display: inline-block;" data-target="animated-image.originalImage">
+## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
+Let's Connect <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Handshake.gif" height="30px">
+
 
 
 ## 🚀 What I’m Currently Building
