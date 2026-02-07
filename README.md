@@ -218,8 +218,8 @@
 </p>
 
 
-
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #ff6ec4, #7873f5, #4ade80);" />
+
 
 
 
