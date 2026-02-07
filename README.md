@@ -34,16 +34,10 @@
 
 <!-- Profile Header Ends Here -->
 
-### 💡 About Me
-
-- 🔧 **Engineer by Experience**
-- 🤖 **Data Scientist by AI Vision**
-- 📊 Passionate about AI, ML and Automation
-- 🚀 Transforming ideas into intelligent solutions
+# 💫 About Me:
+🔭 I’m currently working on  <br>End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.<br><br>👯 I’m looking to collaborate on  <br>Data Analytics, Data Science, and Machine Learning projects focused on customer analytics, churn prediction, segmentation, and marketing performance.<br><br>🤝 I’m looking for help with  <br>Advanced Machine Learning techniques, MLOps fundamentals, and practical applications of Generative AI in analytics workflows.<br><br>🌱 I’m currently learning  <br>Advanced SQL, Statistics, Machine Learning, Predictive Modeling, and Generative AI for intelligent analytics solutions.<br><br>💬 Ask me about  <br>SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.<br><br>⚡ Fun fact  <br>I believe every dataset has a story waiting to be told 📊<br>
 
 
-## 🌟 About Me – In Colors
-- 🔭 I’m currently working on **End-to-end Data Analytics & Data Science work using SQL, Python, Power BI, Statistics, and Machine Learning, focused on delivering actionable business insights and predictive solutions.**
 
 
 
