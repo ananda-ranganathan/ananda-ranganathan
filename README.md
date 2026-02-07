@@ -115,9 +115,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 <!-- Tech Stacks Starts Here -->
-## ⚙️ Tech Stack
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+## ⚙️ Tech Stack
 
 **🧑‍💻 Languages & Markup**
 
@@ -134,8 +133,6 @@
 
 </p>
 
----
-
 **📊 Data Science & Analytics**
 
 <br>
@@ -150,7 +147,6 @@
 
 </p>
 
----
 
 **🤖 Automation & Testing**
 
@@ -164,7 +160,6 @@
 
 </p>
 
----
 
 **🗄 Databases & Tools**
 
@@ -180,7 +175,6 @@
 
 </p>
 
----
 
 **☁️ Cloud & Environment**
 
@@ -193,7 +187,6 @@
 
 </p>
 
----
 
 **📈 BI & Productivity**
 
