@@ -196,7 +196,7 @@
 <!-- Tech Stacks Ends Here -->
 
 
-
+<!-- Fun Facts Starts Here -->
 ## <p align="center">⚡ Fun Fact</p>
 
 <p align="center">
@@ -205,7 +205,9 @@
   />
 </p>
 
+---
 
+<!-- Fun Facts Ends Here -->
 
 
 
