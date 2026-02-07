@@ -1,3 +1,6 @@
+
+<!-- Profile Header Starts Here -->
+
 <!-- Animated Name Banner -->
 
 <h1 align="center">
@@ -26,6 +29,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
+<!-- End of Animated Name Banner -->
+
+
+<!-- Profile Header Ends Here -->
 
 ### 💡 About Me
 
