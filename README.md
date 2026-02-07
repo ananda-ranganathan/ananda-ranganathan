@@ -1,6 +1,5 @@
 
 <!-- Profile Header Starts Here -->
-
 <!-- Animated Name Banner -->
 
 <h1 align="center">
@@ -30,49 +29,39 @@
 </p>
 
 <!-- End of Animated Name Banner -->
-
-
 <!-- Profile Header Ends Here -->
 
 
+<!-- About Me and FunFact Header Starts Here -->
 
-<div align="center">
-
-## 💫 About Me
+## <p align="center">💫 About Me</p>
 
 🔭 **I’m currently working on**  
 End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.
 
-<br/>
-
 👯 **I’m looking to collaborate on**  
 Data Analytics, Data Science, and Machine Learning projects focused on customer analytics, churn prediction, segmentation, and marketing performance.
-
-<br/>
 
 🤝 **I’m looking for help with**  
 Advanced Machine Learning techniques, MLOps fundamentals, and practical applications of Generative AI in analytics workflows.
 
-<br/>
-
 🌱 **I’m currently learning**  
 Advanced SQL, Statistics, Machine Learning, Predictive Modeling, and Generative AI for intelligent analytics solutions.
-
-<br/>
 
 💬 **Ask me about**  
 SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.
 
-<br/><br/>
+---
+## <p align="center">⚡ Fun fact</p>
 
-## ⚡ Fun fact
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=✨+I+believe+every+dataset+has+a+story+waiting+to+be+told"
+  />
+</p>
+---
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=✨+I+believe+every+dataset+has+a+story+waiting+to+be+told"
- />
-
-</div>
-
+<!-- About Me and FunFact Header Ends Here -->
 
 
 
