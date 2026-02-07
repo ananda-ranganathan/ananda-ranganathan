@@ -121,11 +121,10 @@
 
 <!-- Tech Stacks Starts Here -->
 
-<p align="center">
-
-## <img src="https://img.icons8.com/ios-filled/50/00FFFF/settings.png" width="26"/> Tech Stack
-
+<p align="center" style="font-size: 42px; font-weight: bold;">
+⚙️ Tech Stack
 </p>
+
 
 
 
