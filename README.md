@@ -233,7 +233,7 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ananda-ranganathan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
