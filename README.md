@@ -238,6 +238,25 @@
 
 
 
+## 🎬 Animation Sentence Demo
+
+### ✨ fadeIn
+<img src="https://capsule-render.vercel.app/api?type=rect&text=Building%20cool%20projects%20every%20day&animation=fadeIn&fontSize=22" />
+
+---
+
+### 🌟 twinkling
+<img src="https://capsule-render.vercel.app/api?type=rect&text=Turning%20data%20into%20insight&animation=twinkling&fontSize=22" />
+
+---
+
+### ⚡ blinking
+<img src="https://capsule-render.vercel.app/api?type=rect&text=Code.%20Analyze.%20Innovate.&animation=blinking&fontSize=22" />
+
+---
+
+### 🚀 scaleIn
+<img src="https://capsule-render.vercel.app/api?type=rect&text=Learning%20never%20stops&animation=scaleIn&fontSize=22" />
 
 
 
