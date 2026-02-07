@@ -272,7 +272,11 @@
 🔗 https://github.com/ananda-ranganathan
 
 
+<p align="center">
+  <b>Thanks for being here — connection is where innovation begins.</b>
+</p>
 
 <p align="center">
-  <b>✨ Thanks for visiting! Let’s build something amazing together ✨</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </p>
+
