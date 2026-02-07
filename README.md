@@ -226,8 +226,6 @@
 
 <!-- GitHub Stats Ends Here -->
 
-
-
 <!-- Lets Connect starts Here -->
 
 ## <p align="center"> Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif" height="30px" style="max-width: 100%; height: auto; max-height: 30px; display: inline-block;" data-target="animated-image.originalImage"></p>
@@ -255,12 +253,10 @@
   </a>
 </p>
 
-
 <!-- Lets Connect Ends Here -->
 
-## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
-Let's Connect <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Handshake.gif" height="30px">
+
 
 
 
