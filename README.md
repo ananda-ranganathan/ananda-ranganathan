@@ -159,12 +159,14 @@
 
 </p>
 
+<!-- Tech Stack Animated Header -->
 
-💻 Tech Stack </>
-<!-- Animated section header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Tech%20Stack%20⚙️&height=60&fontSize=34&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Tech%20Stack%20⚙️&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+---
+
 
 <!-- Center animated divider -->
 <p align="center">
