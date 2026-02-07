@@ -118,8 +118,8 @@
 <tr>
 <td width="40%">
 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF6F00&repeat=true&width=420&lines=🧑‍💻+Languages+%26+Markup" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=AA00FF&repeat=true&width=420&lines=🧑‍💻+Languages+%26+Markup" />
 </td>
 
 <td align="center">
@@ -128,25 +128,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=AA00FF&repeat=true&width=420&lines=🗄+Databases+%26+Tools" />
-
-</td>
-
-<td align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </td>
 </tr>
@@ -164,7 +147,42 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=2979FF&repeat=true&width=420&lines=🤖+Automation+%26+Testing" />
+
+</td>
+
+<td align="center">
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=AA00FF&repeat=true&width=420&lines=🗄+Databases+%26+Tools" />
+
+</td>
+
+<td align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </td>
 </tr>
@@ -189,6 +207,9 @@
 <td>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FFD600&repeat=true&width=420&lines=📈+BI+%26+Productivity" />
+
+</td>
+
 <td align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -198,25 +219,6 @@
 
 </td>
 </tr>
-</td>
-
-<tr>
-<td>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=2979FF&repeat=true&width=420&lines=🤖+Automation+%26+Testing" />
-
-</td>
-
-<td align="center">
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td>
-</tr>
-
-
 
 </table>
 
@@ -229,13 +231,15 @@
 ## <p align="center">⚡ Fun Fact</p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&text=🔍%20I%20believe%20every%20dataset%20has%20a%20story&animation=blinking&fontSize=22&height=45&color=0:00000000,100:00000000&fontColor=7B1FA2" />
-
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=🔍+I+believe+every+dataset+has+a+story+waiting+to+be+told+🧩"
+  />
 </p>
 
 ---
 
 <!-- Fun Facts Ends Here -->
+
 
 
 
