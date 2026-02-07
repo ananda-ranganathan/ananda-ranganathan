@@ -114,18 +114,13 @@
 <!-- About Me and FunFact Header Ends Here -->
 
 
---------------------
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Tech%20Stack%20⚙️&fontSize=36&fontColor=ffffff" />
-
---------------
-
 <!-- Tech Stacks Starts Here -->
 
-<p align="center" style="font-size: 42px; font-weight: bold;">
+<!-- <p align="center" style="font-size: 42px; font-weight: bold;">
 ⚙️ Tech Stack
-</p>
+</p> -->
 
-
+## <p align="center">⚙️ Tech Stack</p>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
