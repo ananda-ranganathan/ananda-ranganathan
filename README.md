@@ -102,7 +102,7 @@
 </table>
 
 
-## <p align="center">⚡ Fun fact</p>
+## <p align="center">⚡ Fun Fact</p>
 
 <p align="center">
   <img
@@ -119,7 +119,6 @@
 
 ## <p align="center">⚙️ Tech Stack</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 <h2>🧑‍💻 Languages & Markup</h2>
 
