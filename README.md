@@ -36,7 +36,7 @@
 
 ## <p align="center">💫 About Me</p>
 
-🔭 <span style="color:#F72585;"><b>I’m currently working on</b></span>  
+🔭 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=F72585&vCenter=true&width=420&lines=I’m+currently+working+on" />
 End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.
 
 👯 **I’m looking to collaborate on**  
@@ -63,15 +63,16 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
 
 <!-- About Me and FunFact Header Ends Here -->
 
-🔭 <span style="color:#F72585;"><b>I’m currently working on</b></span>  
+🔭 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=F72585&vCenter=true&width=420&lines=I’m+currently+working+on" />
 
-👯 <span style="color:#4CC9F0;"><b>I’m looking to collaborate on</b></span>  
+👯 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=4CC9F0&vCenter=true&width=460&lines=I’m+looking+to+collaborate+on" />
 
-🤝 <span style="color:#7209B7;"><b>I’m looking for help with</b></span>  
+🤝 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=7209B7&vCenter=true&width=420&lines=I’m+looking+for+help+with" />
 
-🌱 <span style="color:#06D6A0;"><b>I’m currently learning</b></span>  
+🌱 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=06D6A0&vCenter=true&width=420&lines=I’m+currently+learning" />
 
-💬 <span style="color:#FFD166;"><b>Ask me about</b></span>  
+💬 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=FFD166&vCenter=true&width=300&lines=Ask+me+about" />
+
 
 
 
