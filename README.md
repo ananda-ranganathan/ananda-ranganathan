@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=30&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Ananda%20Ranganathan%20Harikrishnan&fontSize=30&animation=twinkling" />
 </p> 
 
 <p align="center">
