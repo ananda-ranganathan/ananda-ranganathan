@@ -248,6 +248,95 @@
 
 
 
+----------------
+
+💻 Tech Stack </>
+
+<!-- Animated section header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Tech%20Stack%20⚙️&height=60&fontSize=34&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+
+---
+
+### 🧑‍💻 Languages &amp; Markup
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Languages%20%26%20Markup&fontSize=20&fontColor=9ecbff&animation=fadeIn" />
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+
+---
+
+### 📊 Data Science &amp; ML
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Data%20Science%20%26%20ML&fontSize=20&fontColor=ffb86c&animation=fadeIn" />
+
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+
+---
+
+### 🗄️ Databases
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Databases&fontSize=20&fontColor=7ee787&animation=fadeIn" />
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+---
+
+### ☁️ Cloud &amp; Environment
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Cloud%20%26%20Environment&fontSize=20&fontColor=79c0ff&animation=fadeIn" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+
+---
+
+### 🛠 Dev, Test &amp; Collaboration
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Dev%20%26%20Collaboration%20Tools&fontSize=20&fontColor=f85149&animation=fadeIn" />
+
+<br>
+
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-%230052CC.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+---
+
+### 📈 BI &amp; Productivity
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=BI%20%26%20Productivity&fontSize=20&fontColor=e3b341&animation=fadeIn" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 
 
