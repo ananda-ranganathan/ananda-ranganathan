@@ -114,6 +114,11 @@
 <!-- About Me and FunFact Header Ends Here -->
 
 
+--------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Tech%20Stack%20⚙️&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+
+--------------
+
 <!-- Tech Stacks Starts Here -->
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Rotating_gear.svg" width="22"> Tech Stack
