@@ -119,6 +119,43 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
 
 
 
+<table>
+<tr>
+  <td>🔭</td>
+  <td>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=F72585&vCenter=true&lines=I’m+currently+working+on" />
+  </td>
+</tr>
+<tr>
+  <td>👯</td>
+  <td>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=4CC9F0&vCenter=true&lines=I’m+looking+to+collaborate+on" />
+  </td>
+</tr>
+<tr>
+  <td>🤝</td>
+  <td>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=7209B7&vCenter=true&lines=I’m+looking+for+help+with" />
+  </td>
+</tr>
+<tr>
+  <td>🌱</td>
+  <td>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=06D6A0&vCenter=true&lines=I’m+currently+learning" />
+  </td>
+</tr>
+<tr>
+  <td>💬</td>
+  <td>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=FFD166&vCenter=true&lines=Ask+me+about" />
+  </td>
+</tr>
+</table>
+
+
+
+
+
 
 
 
