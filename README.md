@@ -210,60 +210,118 @@
 <!-- Fun Facts Ends Here -->
 
 
+<!-- ================= TECH STACK ================= -->
 
+<h2 align="center">
 
-## ⚙️ Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=⚙️+Tech+Stack" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:00C4CC&height=45&section=header&text=🧑‍💻%20Languages%20%26%20Markup&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+</h2>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
+<table>
 
-<br>
+<tr>
+<td width="30%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6F00,100:F7931E&height=45&section=header&text=📊%20Data%20Science%20%26%20Analytics&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+### 🧑‍💻 Languages & Markup
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge"/>
+</td>
+<td>
 
-<br>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:43B02A,100:25A162&height=45&section=header&text=🤖%20Automation%20%26%20Testing&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge"/>
+<tr>
+<td>
 
-<br>
+### 📊 Data Science & Analytics
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4479A1,100:007ACC&height=45&section=header&text=🗄%20Databases%20%26%20Tools&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+</td>
+<td>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge"/>
+![NumPy](https://img.shields.io/badge/NumPy-teal?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-lightgrey?style=for-the-badge)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
 
-<br>
+</td>
+</tr>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:44A833&height=45&section=header&text=☁️%20Cloud%20%26%20Environment&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
+### 🤖 Automation & Testing
 
-<br>
+</td>
+<td>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2C811,100:217346&height=45&section=header&text=📈%20BI%20%26%20Productivity&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-brightgreen?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
+</td>
+</tr>
 
+<tr>
+<td>
 
+### 🗄 Databases & Tools
 
+</td>
+<td>
 
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-navy?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ☁ Cloud & Environment
+
+</td>
+<td>
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/Anaconda-green?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📈 BI & Productivity
+
+</td>
+<td>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-teal?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge)
+
+</td>
+</tr>
+
+</table>
+
+<!-- ================= END ================= -->
 
 
 ### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
