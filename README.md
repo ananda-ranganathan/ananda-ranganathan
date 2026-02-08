@@ -26,24 +26,28 @@
 
 <!-- About My Work Section -->
 ## 💫 About My Work
+## 💫 About My Work
 
-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🔭%20Currently%20Working%20On%20-%20End-to-end%20Data%20Analytics%20%26%20Data%20Science%20(SQL,%20Python,%20Power%20BI,%20ML)&fontSize=18&animation=blinking" />
+- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🔭%20Currently%20Working%20On&fontSize=18&animation=blinking" />
+  End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).
 
-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=👯%20Collaborating%20On%20-%20Customer%20analytics,%20churn%20prediction,%20segmentation,%20marketing%20performance&fontSize=18&animation=blinking" />
+- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=👯%20Collaborating%20On&fontSize=18&animation=blinking" />
+  Customer analytics, churn prediction, segmentation, marketing performance.
 
-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🤝%20Seeking%20Help%20With%20-%20Advanced%20ML,%20MLOps,%20Generative%20AI%20in%20analytics%20workflows&fontSize=18&animation=blinking" />
+- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🤝%20Seeking%20Help%20With&fontSize=18&animation=blinking" />
+  Advanced ML, MLOps, Generative AI in analytics workflows.
 
-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🌱%20Currently%20Learning%20-%20Advanced%20SQL,%20Statistics,%20Predictive%20Modeling,%20Generative%20AI&fontSize=18&animation=blinking" />
+- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🌱%20Currently%20Learning&fontSize=18&animation=blinking" />
+  Advanced SQL, Statistics, Predictive Modeling, Generative AI.
 
-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=💬%20Ask%20Me%20About%20-%20SQL,%20Python,%20EDA,%20Power%20BI,%20Customer%20Segmentation,%20Churn%20Analysis&fontSize=18&animation=blinking" />
+- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=💬%20Ask%20Me%20About&fontSize=18&animation=blinking" />
+  SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.
 
-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=📝%20Writing%20-%20Medium%20blogs%20on%20Data%20Analytics%20%26%20Data%20Science&fontSize=18&animation=blinking" />
+- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=📝%20Writing&fontSize=18&animation=blinking" />
+  Medium blogs on Data Analytics & Data Science.
 
-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=📄%20Experience%20-%20Resume%20%26%20professional%20journey%20in%20analytics%20and%20AI&fontSize=18&animation=blinking" />
-
-
-
-
+- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=📄%20Experience&fontSize=18&animation=blinking" />
+  Resume & professional journey in analytics and AI.
 <!-- Tech Stacks Starts Here -->
 
 <h2 align="center">⚙️ Tech Stack</h2>
