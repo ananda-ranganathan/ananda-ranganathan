@@ -26,18 +26,32 @@
 
 <!-- About My Work Section -->
 
-### 🧑‍💻 What I Do
-- End-to-end **Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
-- Build predictive models and deliver actionable insights  
 
-### 🤝 Collaboration
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ananda;Data+Science+%26+Analytics+Specialist;Delivering+Business+Insights+with+Data" alt="Typing SVG" />
+</h1>
+
+---
+
+### 🧑‍💻 Expertise
+- SQL, Python, Power BI, Machine Learning  
+- Predictive modeling & actionable insights  
+
+### 🤝 Collaboration Interests
 - Customer analytics, churn prediction, segmentation, marketing performance  
 
-### 🌱 Learning
-- Advanced SQL, Statistics, Predictive Modeling, Generative AI  
+### 🌱 Continuous Learning
+- Advanced SQL, Statistics, Generative AI  
 
-### 💬 Ask Me About
-- SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis  
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/PowerBI-Dashboards-orange?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Predictive-green?style=for-the-badge&logo=scikitlearn" />
+</p>
+
 
 
 <!-- About My Work Header Ends Here -->
