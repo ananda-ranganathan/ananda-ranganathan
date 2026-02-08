@@ -209,7 +209,7 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
     <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 
-  <a href="@Anandharinn">
+  <a href="https://web.telegram.org/a/#5755505406">
     <img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram"/>
   </a>
 </p>
