@@ -27,26 +27,6 @@
 <!-- About My Work Section -->
 
 
-<!-- About My Work Header Starts Here -->
-
-
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ananda;Data+Science+%26+Analytics+Specialist;Turning+Data+into+Business+Stories" alt="Typing SVG" />
-</h1>
-
----
-
-<!-- Recruiter-Friendly Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/PowerBI-Dashboards-orange?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Predictive-green?style=for-the-badge&logo=scikitlearn" />
-</p>
-
----
-
 <!-- About Me Section -->
 ### 🧑‍💻 What I Do
 - End-to-end **Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
