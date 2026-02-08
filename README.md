@@ -28,47 +28,48 @@
 ## 💫 About My Work
 
 ## 💫 About My Work
+## 💫 About My Work
 
 <table>
   <tr>
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=🔭%20Currently%20Working%20On&fontSize=16&animation=blinking" />
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=%F0%9F%94%AD%20Currently%20Working%20On&fontSize=16&animation=blinking" />
     </td>
     <td>End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).</td>
   </tr>
   <tr>
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=👯%20Collaborating%20On&fontSize=16&animation=blinking" />
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=%F0%9F%91%AF%20Collaborating%20On&fontSize=16&animation=blinking" />
     </td>
     <td>Customer analytics, churn prediction, segmentation, marketing performance.</td>
   </tr>
   <tr>
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=🤝%20Seeking%20Help%20With&fontSize=16&animation=blinking" />
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=%F0%9F%A4%9D%20Seeking%20Help%20With&fontSize=16&animation=blinking" />
     </td>
     <td>Advanced ML, MLOps, Generative AI in analytics workflows.</td>
   </tr>
   <tr>
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=🌱%20Currently%20Learning&fontSize=16&animation=blinking" />
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=%F0%9F%8C%B1%20Currently%20Learning&fontSize=16&animation=blinking" />
     </td>
     <td>Advanced SQL, Statistics, Predictive Modeling, Generative AI.</td>
   </tr>
   <tr>
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=💬%20Ask%20Me%20About&fontSize=16&animation=blinking" />
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=%F0%9F%92%AC%20Ask%20Me%20About&fontSize=16&animation=blinking" />
     </td>
     <td>SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.</td>
   </tr>
   <tr>
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=📝%20Writing&fontSize=16&animation=blinking" />
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=%F0%9F%93%9D%20Writing&fontSize=16&animation=blinking" />
     </td>
     <td>Medium blogs on Data Analytics & Data Science.</td>
   </tr>
   <tr>
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=📄%20Experience&fontSize=16&animation=blinking" />
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=35&section=header&text=%F0%9F%93%84%20Experience&fontSize=16&animation=blinking" />
     </td>
     <td>Resume & professional journey in analytics and AI.</td>
   </tr>
