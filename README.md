@@ -23,29 +23,35 @@
 
 <!-- End of Animated Name Banner -->
 <!-- Profile Header Ends Here -->
+
+
+
+<!-- About My Work Section -->
 <!-- About My Work Section -->
 
-### <span style="color:#2F81F7">🧑‍💻 What I Do</span>
+### <span style="color:#8A2BE2">🧑‍💻 What I Do</span>
 - Deliver **end-to-end Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
 - Build predictive models that drive actionable business insights  
 
 ---
 
-### <span style="color:#F75C7E">🤝 Collaboration</span>
+### <span style="color:#DC143C">🤝 Collaboration</span>
 - Partner on projects in **customer analytics, churn prediction, and segmentation**  
 - Collaborate to align data science solutions with business strategy  
 
 ---
 
-### <span style="color:#00C853">🌱 Learning</span>
+### <span style="color:#1E90FF">🌱 Learning</span>
 - Advancing skills in **SQL, Statistics, Predictive Modeling, and Generative AI**  
 - Exploring **MLOps fundamentals** for scalable model deployment  
 
 ---
 
-### <span style="color:#FF9800">💬 Ask Me About</span>
+### <span style="color:#FF4500">💬 Ask Me About</span>
 - Expertise in **SQL, Python, EDA, and Power BI dashboards**  
 - Insights on **customer segmentation, churn analysis, and data storytelling**  
+
+<!-- About My Work Header Ends Here -->
 
 <!-- About My Work Header Ends Here -->
 
