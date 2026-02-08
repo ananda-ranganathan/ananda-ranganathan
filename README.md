@@ -11,16 +11,9 @@
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence;Think+Data!+Build+AI.;Engineer+by+Experience,+Data+Scientist+by+Vision" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=950&lines=Think+Data.+Build+AI." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=06D6A0&center=true&vCenter=true&width=950&lines=Engineer+by+Experience!!!+⚡+Data+Scientist+by+AI+Vision!!!" />
-</p>
 
 <!-- Animated Profile Views -->
 <p align="center">
@@ -41,7 +34,7 @@
     <td>
       <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=F72585&vCenter=true&lines=I’m+currently+working+on" />
       <br/>
-      End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.
+      End-to-end Data Analytics & Data Science.
     </td>
   </tr>
 
@@ -50,7 +43,7 @@
     <td>
       <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=4CC9F0&vCenter=true&lines=I’m+looking+to+collaborate+on" />
       <br/>
-      Data Analytics, Data Science, and Machine Learning projects focused on customer analytics, churn prediction, segmentation, and marketing performance.
+      Customer Segmentation, Churn Prediction, Marketing Performance.
     </td>
   </tr>
 
@@ -59,7 +52,7 @@
     <td>
       <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=9D4EDD&vCenter=true&lines=I’m+looking+for+help+with" />
       <br/>
-      Advanced Machine Learning techniques, MLOps fundamentals, and practical applications of Generative AI in analytics workflows.
+      Advanced ML & NLP, Deep Learning, Generative AI in analytics workflows.
     </td>
   </tr>
 
@@ -68,7 +61,7 @@
     <td>
       <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=06D6A0&vCenter=true&lines=I’m+currently+learning" />
       <br/>
-      Advanced SQL, Statistics, Machine Learning, Predictive Modeling, and Generative AI for intelligent analytics solutions.
+      Advanced SQL, Statistics, Predictive Modeling, Generative AI for intelligent analytics solutions.  
     </td>
   </tr>
 
@@ -77,7 +70,7 @@
     <td>
       <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=F77F00&vCenter=true&lines=Ask+me+about" />
       <br/>
-      SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.
+      SQL, Python, EDA, Power BI dashboards and Business Storytelling with data.
     </td>
   </tr>
 
@@ -102,6 +95,7 @@
 </table>
 
 <!-- About My Work Header Ends Here -->
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
