@@ -25,52 +25,41 @@
 <!-- Profile Header Ends Here -->
 
 <!-- About My Work Section -->
-## 💫 About My Work
 
-<table>
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=🔭%20Currently%20Working%20On&fontSize=16&animation=blinking" />
-    </td>
-    <td>End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=👯%20Collaborating%20On&fontSize=16&animation=blinking" />
-    </td>
-    <td>Customer analytics, churn prediction, segmentation, marketing performance.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=🤝%20Seeking%20Help%20With&fontSize=16&animation=blinking" />
-    </td>
-    <td>Advanced ML, MLOps, Generative AI in analytics workflows.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=🌱%20Currently%20Learning&fontSize=16&animation=blinking" />
-    </td>
-    <td>Advanced SQL, Statistics, Predictive Modeling, Generative AI.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=💬%20Ask%20Me%20About&fontSize=16&animation=blinking" />
-    </td>
-    <td>SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=📝%20Writing&fontSize=16&animation=blinking" />
-    </td>
-    <td>Medium blogs on Data Analytics & Data Science.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=📄%20Experience&fontSize=16&animation=blinking" />
-    </td>
-    <td>Resume & professional journey in analytics and AI.</td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=F72585&center=false&vCenter=true&width=400&lines=🔭+Currently+Working+On" />
+  End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=4CC9F0&center=false&vCenter=true&width=400&lines=👯+Collaborating+On" />
+  Customer analytics, churn prediction, segmentation, marketing performance.
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=9D4EDD&center=false&vCenter=true&width=400&lines=🤝+Seeking+Help+With" />
+  Advanced ML, MLOps, Generative AI in analytics workflows.
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=06D6A0&center=false&vCenter=true&width=400&lines=🌱+Currently+Learning" />
+  Advanced SQL, Statistics, Predictive Modeling, Generative AI.
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=F77F00&center=false&vCenter=true&width=400&lines=💬+Ask+Me+About" />
+  SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=8338EC&center=false&vCenter=true&width=400&lines=📝+Writing" />
+  Medium blogs on Data Analytics & Data Science.
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=EF476F&center=false&vCenter=true&width=400&lines=📄+Experience" />
+  Resume & professional journey in analytics and AI.
+</p>
 
 
 
