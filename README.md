@@ -26,8 +26,6 @@
 
 <!-- About My Work Section -->
 
-
-<!-- About Me Section -->
 ### 🧑‍💻 What I Do
 - End-to-end **Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
 - Build predictive models and deliver actionable insights  
@@ -41,13 +39,11 @@
 ### 💬 Ask Me About
 - SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis  
 
----
 
 <!-- About My Work Header Ends Here -->
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 
 
 <!-- Tech Stacks Starts Here -->
