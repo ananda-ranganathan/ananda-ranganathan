@@ -28,88 +28,36 @@
 
 
 <!-- About My Work Header Starts Here -->
-## <p align="center">💫 About My Work</p>
+## 💼 Work
 
-<table>
-  <tr>
-    <td width="40">
-      <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="22"/>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=F72585&repeat=false&lines=I’m+currently+working+on|" />
-      <br/>
-      End-to-end Data Analytics & Data Science.
-    </td>
-  </tr>
+### 🧑‍💻 I’m currently working on  
+Customer Analytics & Churn Prediction projects — building predictive models in Python and SQL, with dashboards in Power BI.  
+[Featured Project: Customer Churn Analysis](#)  
 
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="22"/>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=4CC9F0&repeat=false&lines=I’m+looking+to+collaborate+on|" />
-      <br/>
-      Customer Segmentation, Churn Prediction, Marketing Performance.
-    </td>
-  </tr>
+### 🧑‍🤝‍🧑 I’m looking to collaborate on  
+Data Science projects focused on segmentation, marketing performance, and applied machine learning in business contexts.  
 
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="22"/>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=9D4EDD&repeat=false&lines=I’m+looking+for+help+with|" />
-      <br/>
-      Advanced ML & NLP, Deep Learning, Generative AI in analytics workflows.
-    </td>
-  </tr>
+### 🤝 I’m looking for help with  
+Scaling ML workflows (MLOps), deploying advanced ML models, and integrating Generative AI into analytics pipelines.  
 
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="22"/>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=06D6A0&repeat=false&lines=I’m+currently+learning|" />
-      <br/>
-      Advanced SQL, Statistics, Predictive Modeling, Generative AI for intelligent analytics solutions.
-    </td>
-  </tr>
+### 🌱 I’m currently learning  
+Advanced SQL optimization, statistical modeling, predictive analytics, and practical applications of Generative AI.  
 
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="22"/>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=F77F00&repeat=false&lines=Ask+me+about|" />
-      <br/>
-      SQL, Python, EDA, Power BI dashboards and Business Storytelling with data.
-    </td>
-  </tr>
+### 💬 Ask me about  
+SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, and Churn Analysis.  
 
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="22"/>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=8338EC&repeat=false&lines=I+regularly+write+articles+on|" />
-      <br/>
-      Medium / Technical Blogs (Data Analytics & Data Science)
-    </td>
-  </tr>
+### 📫 How to reach me  
+**Email:** anandaranganathanharikrishnan@gmail.com  
+**LinkedIn:** [linkedin.com/in/anandaranganathanharikrishnan](#)  
 
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" width="22"/>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=EF476F&repeat=false&lines=Know+about+my+experiences|" />
-      <br/>
-      Resume & professional journey in Data Analytics and Data Science
-    </td>
-  </tr>
-</table>
+### 👨‍💻 All of my projects are available at  
+[GitHub Portfolio](#) — showcasing analytics, automation, and machine learning projects.  
 
+### 📰 I regularly write articles on  
+[Medium Blog](#) — sharing insights on Data Analytics, Machine Learning, and Generative AI.  
 
+### 📄 Know about my experiences  
+[Resume](#) — highlighting professional journey in analytics and AI.
 
 <!-- About My Work Header Ends Here -->
 
