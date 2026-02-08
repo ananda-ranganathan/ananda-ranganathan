@@ -26,6 +26,7 @@
 
 <!-- About My Work Section -->
 
+<!-- About My Work Section -->
 
 <!-- 🧑‍💻 What I Do -->
 <h3>
@@ -62,6 +63,7 @@
 
 - SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis  
 
+<!-- About My Work Header Ends Here -->
 
 
 <!-- About My Work Header Ends Here -->
