@@ -26,7 +26,6 @@
 
 <!-- About My Work Section -->
 ## 💫 About My Work
-## 💫 About My Work
 
 ### 🔭 <span style="color:#F72585">Currently Working On</span>  
 End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).
@@ -48,9 +47,6 @@ Medium blogs on Data Analytics & Data Science.
 
 ### 📄 <span style="color:#EF476F">Experience</span>  
 Resume & professional journey in analytics and AI.
-
-
-
 
 
 
