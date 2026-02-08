@@ -28,36 +28,53 @@
 
 
 <!-- About My Work Header Starts Here -->
-## 💼 Work
+## <p align="center">💫 About My Work</p>
 
-### 🧑‍💻 I’m currently working on  
-Customer Analytics & Churn Prediction projects — building predictive models in Python and SQL, with dashboards in Power BI.  
-[Featured Project: Customer Churn Analysis](#)  
+<table>
+  <tr>
+    <td>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🔭%20Currently%20Working%20On&fontSize=18&animation=blinking" />
+      <br/> End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=👯%20Collaborating%20On&fontSize=18&animation=blinking" />
+      <br/> Customer analytics, churn prediction, segmentation, marketing performance.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🤝%20Seeking%20Help%20With&fontSize=18&animation=blinking" />
+      <br/> Advanced ML, MLOps, Generative AI in analytics workflows.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🌱%20Currently%20Learning&fontSize=18&animation=blinking" />
+      <br/> Advanced SQL, Statistics, Predictive Modeling, Generative AI.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=💬%20Ask%20Me%20About&fontSize=18&animation=blinking" />
+      <br/> SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=📝%20Writing&fontSize=18&animation=blinking" />
+      <br/> Medium blogs on Data Analytics & Data Science.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=📄%20Experience&fontSize=18&animation=blinking" />
+      <br/> Resume & professional journey in analytics and AI.
+    </td>
+  </tr>
+</table>
 
-### 🧑‍🤝‍🧑 I’m looking to collaborate on  
-Data Science projects focused on segmentation, marketing performance, and applied machine learning in business contexts.  
-
-### 🤝 I’m looking for help with  
-Scaling ML workflows (MLOps), deploying advanced ML models, and integrating Generative AI into analytics pipelines.  
-
-### 🌱 I’m currently learning  
-Advanced SQL optimization, statistical modeling, predictive analytics, and practical applications of Generative AI.  
-
-### 💬 Ask me about  
-SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, and Churn Analysis.  
-
-### 📫 How to reach me  
-**Email:** anandaranganathanharikrishnan@gmail.com  
-**LinkedIn:** [linkedin.com/in/anandaranganathanharikrishnan](#)  
-
-### 👨‍💻 All of my projects are available at  
-[GitHub Portfolio](#) — showcasing analytics, automation, and machine learning projects.  
-
-### 📰 I regularly write articles on  
-[Medium Blog](#) — sharing insights on Data Analytics, Machine Learning, and Generative AI.  
-
-### 📄 Know about my experiences  
-[Resume](#) — highlighting professional journey in analytics and AI.
 
 <!-- About My Work Header Ends Here -->
 
