@@ -27,7 +27,6 @@
 <!-- About My Work Section -->
 
 
-
 <!-- 🧑‍💻 What I Do -->
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=400&lines=🧑‍💻+What+I+Do" alt="Typing SVG" />
@@ -62,9 +61,6 @@
 </h3>
 
 - SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis  
-
-
-
 
 
 
