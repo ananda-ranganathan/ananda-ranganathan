@@ -27,7 +27,8 @@
 
 
 <!-- About My Work Section -->
-<!-- About My Work Section -->
+
+<h2 align="center">💫 About Work </h2>
 
 ### <span style="color:#8A2BE2">🧑‍💻 What I Do</span>
 - Deliver **end-to-end Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
@@ -51,7 +52,6 @@
 - Expertise in **SQL, Python, EDA, and Power BI dashboards**  
 - Insights on **customer segmentation, churn analysis, and data storytelling**  
 
-<!-- About My Work Header Ends Here -->
 
 <!-- About My Work Header Ends Here -->
 
