@@ -32,8 +32,7 @@
 
 <table width="100%">
   <tr>
-    <td width="40">🔭</td>
-    <td>
+    <td align="left">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38&text=Currently%20Working%20On&fontSize=18&animation=blinking&section=header" />
       <br/>
       End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).
@@ -41,8 +40,7 @@
   </tr>
 
   <tr>
-    <td>👯</td>
-    <td>
+    <td align="left">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38&text=Collaborating%20On&fontSize=18&animation=blinking&section=header" />
       <br/>
       Customer analytics, churn prediction, segmentation, marketing performance.
@@ -50,8 +48,7 @@
   </tr>
 
   <tr>
-    <td>🤝</td>
-    <td>
+    <td align="left">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38&text=Seeking%20Help%20With&fontSize=18&animation=blinking&section=header" />
       <br/>
       Advanced ML, MLOps, Generative AI in analytics workflows.
@@ -59,8 +56,7 @@
   </tr>
 
   <tr>
-    <td>🌱</td>
-    <td>
+    <td align="left">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38&text=Currently%20Learning&fontSize=18&animation=blinking&section=header" />
       <br/>
       Advanced SQL, Statistics, Predictive Modeling, Generative AI.
@@ -68,8 +64,7 @@
   </tr>
 
   <tr>
-    <td>💬</td>
-    <td>
+    <td align="left">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38&text=Ask%20Me%20About&fontSize=18&animation=blinking&section=header" />
       <br/>
       SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.
@@ -77,8 +72,7 @@
   </tr>
 
   <tr>
-    <td>📝</td>
-    <td>
+    <td align="left">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38&text=Writing&fontSize=18&animation=blinking&section=header" />
       <br/>
       Medium blogs on Data Analytics & Data Science.
@@ -86,15 +80,13 @@
   </tr>
 
   <tr>
-    <td>📄</td>
-    <td>
+    <td align="left">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38&text=Experience&fontSize=18&animation=blinking&section=header" />
       <br/>
       Resume & professional journey in analytics and AI.
     </td>
   </tr>
 </table>
->
 
 
 
