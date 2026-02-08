@@ -23,49 +23,29 @@
 
 <!-- End of Animated Name Banner -->
 <!-- Profile Header Ends Here -->
-
 <!-- About My Work Section -->
 
-
-<!-- 🧑‍💻 What I Do -->
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=400&lines=🧑‍💻+What+I+Do" alt="Typing SVG" />
-</h3>
-
+### <span style="color:#2F81F7">🧑‍💻 What I Do</span>
 - Deliver **end-to-end Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
 - Build predictive models that drive actionable business insights  
 
 ---
 
-<!-- 🤝 Collaboration -->
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=400&lines=🤝+Collaboration" alt="Typing SVG" />
-</h3>
-
+### <span style="color:#F75C7E">🤝 Collaboration</span>
 - Partner on projects in **customer analytics, churn prediction, and segmentation**  
 - Collaborate to align data science solutions with business strategy  
 
 ---
 
-<!-- 🌱 Learning -->
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&width=400&lines=🌱+Learning" alt="Typing SVG" />
-</h3>
-
+### <span style="color:#00C853">🌱 Learning</span>
 - Advancing skills in **SQL, Statistics, Predictive Modeling, and Generative AI**  
 - Exploring **MLOps fundamentals** for scalable model deployment  
 
 ---
 
-<!-- 💬 Ask Me About -->
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF9800&width=400&lines=💬+Ask+Me+About" alt="Typing SVG" />
-</h3>
-
+### <span style="color:#FF9800">💬 Ask Me About</span>
 - Expertise in **SQL, Python, EDA, and Power BI dashboards**  
 - Insights on **customer segmentation, churn analysis, and data storytelling**  
-
-
 
 <!-- About My Work Header Ends Here -->
 
