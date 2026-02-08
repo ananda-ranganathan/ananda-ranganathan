@@ -30,7 +30,7 @@
 <!-- About My Work Header Starts Here -->
 ## <p align="center">💫 About My Work</p>
 
-<table align="center" width="70%">
+<table align="center" width="100%">
   <tr>
     <td>
       <img width="260"
