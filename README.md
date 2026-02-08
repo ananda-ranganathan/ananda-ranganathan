@@ -28,9 +28,45 @@
 
 
 <!-- About My Work Header Starts Here -->
-# 💫 About Me:
-🔭 I’m currently working on  <br>End-to-end Data Analytics and Data Science work involving SQL, Python, Power BI, Statistics, and Machine Learning to derive actionable business insights and build predictive models.<br><br>👯 I’m looking to collaborate on  <br>Data Analytics, Data Science, and Machine Learning projects focused on customer analytics, churn prediction, segmentation, and marketing performance.<br><br>🤝 I’m looking for help with  <br>Advanced Machine Learning techniques, MLOps fundamentals, and practical applications of Generative AI in analytics workflows.<br><br>🌱 I’m currently learning  <br>Advanced SQL, Statistics, Machine Learning, Predictive Modeling, and Generative AI for intelligent analytics solutions.<br><br>💬 Ask me about  <br>SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segmentation, Churn Analysis, and Business Storytelling with data.<br><br>⚡ Fun fact  <br>I believe every dataset has a story waiting to be told 📊<br>
 
+
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ananda;Data+Science+%26+Analytics+Specialist;Turning+Data+into+Business+Stories" alt="Typing SVG" />
+</h1>
+
+---
+
+<!-- Recruiter-Friendly Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/PowerBI-Dashboards-orange?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Predictive-green?style=for-the-badge&logo=scikitlearn" />
+</p>
+
+---
+
+<!-- About Me Section -->
+### 🧑‍💻 What I Do
+- End-to-end **Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
+- Build predictive models and deliver actionable insights  
+
+### 🤝 Collaboration
+- Customer analytics, churn prediction, segmentation, marketing performance  
+
+### 🌱 Learning
+- Advanced SQL, Statistics, Predictive Modeling, Generative AI  
+
+### 💬 Ask Me About
+- SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis  
+
+---
+
+<!-- Fun Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer" />
+</p>
 
 
 
