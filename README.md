@@ -43,13 +43,6 @@
 
 ---
 
-<!-- Fun Animated Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer" />
-</p>
-
-
-
 <!-- About My Work Header Ends Here -->
 
 
