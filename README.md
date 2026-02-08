@@ -29,9 +29,10 @@
 
 <!-- About My Work Header Starts Here -->
 ## <p align="center">💫 About My Work</p>
-<img src="https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif"
+<img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/ShootingStar.gif"
      height="30px"
      style="max-width:100%; height:auto; max-height:30px; display:inline-block;" />
+
 
 <table>
   <tr>
