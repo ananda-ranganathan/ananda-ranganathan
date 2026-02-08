@@ -26,14 +26,57 @@
 
 <!-- About My Work Section -->
 ## 💫 About My Work
-- 🔭 **Currently Working On**: End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).  
-- 👯 **Collaborating On**: Customer analytics, churn prediction, segmentation, marketing performance.  
-- 🤝 **Seeking Help With**: Advanced ML, MLOps, Generative AI in analytics workflows.  
-- 🌱 **Learning**: Advanced SQL, Statistics, Predictive Modeling, Generative AI.  
-- 💬 **Ask Me About**: SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.  
-- 📝 **Writing**: Medium blogs on Data Analytics & Data Science.  
-- 📄 **Experience**: Resume & professional journey in analytics and AI.  
-
+<table>
+  <tr>
+    <td>🔭</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=F72585&animation=blinking&lines=Currently+Working+On" />
+      <br/> End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).
+    </td>
+  </tr>
+  <tr>
+    <td>👯</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=4CC9F0&animation=blinking&lines=Collaborating+On" />
+      <br/> Customer analytics, churn prediction, segmentation, marketing performance.
+    </td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=9D4EDD&animation=blinking&lines=Seeking+Help+With" />
+      <br/> Advanced ML, MLOps, Generative AI in analytics workflows.
+    </td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=06D6A0&animation=blinking&lines=Currently+Learning" />
+      <br/> Advanced SQL, Statistics, Predictive Modeling, Generative AI.
+    </td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=F77F00&animation=blinking&lines=Ask+Me+About" />
+      <br/> SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.
+    </td>
+  </tr>
+  <tr>
+    <td>📝</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=8338EC&animation=blinking&lines=Writing" />
+      <br/> Medium blogs on Data Analytics & Data Science.
+    </td>
+  </tr>
+  <tr>
+    <td>📄</td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=EF476F&animation=blinking&lines=Experience" />
+      <br/> Resume & professional journey in analytics and AI.
+    </td>
+  </tr>
+</table>
 ---
 
 
