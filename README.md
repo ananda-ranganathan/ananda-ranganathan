@@ -25,27 +25,19 @@
 <!-- Profile Header Ends Here -->
 
 <!-- About My Work Section -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Ananda;Data+Science+%26+Analytics+Explorer;Making+Data+Come+Alive+✨" alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:2F81F7,100:F75C7E&height=120&section=header&text=Welcome+to+My+World&fontSize=40&fontColor=ffffff" />
-</p>
-
-### 🚀 Current Focus
-- End-to-end **Data Analytics & Data Science**  
-- SQL, Python, Power BI, Machine Learning  
+### 🧑‍💻 What I Do
+- End-to-end **Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
+- Build predictive models and deliver actionable insights  
 
 ### 🤝 Collaboration
-- Customer analytics, churn prediction, segmentation  
+- Customer analytics, churn prediction, segmentation, marketing performance  
 
 ### 🌱 Learning
-- Advanced SQL, Predictive Modeling, Generative AI  
+- Advanced SQL, Statistics, Predictive Modeling, Generative AI  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer" />
-</p>
+### 💬 Ask Me About
+- SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis  
 
 <!-- About My Work Header Ends Here -->
 
