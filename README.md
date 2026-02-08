@@ -25,34 +25,27 @@
 <!-- Profile Header Ends Here -->
 
 <!-- About My Work Section -->
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ananda;Data+Science+%26+Analytics+Specialist;Delivering+Business+Insights+with+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Ananda;Data+Science+%26+Analytics+Explorer;Making+Data+Come+Alive+✨" alt="Typing SVG" />
 </h1>
 
----
-
-### 🧑‍💻 Expertise
-- SQL, Python, Power BI, Machine Learning  
-- Predictive modeling & actionable insights  
-
-### 🤝 Collaboration Interests
-- Customer analytics, churn prediction, segmentation, marketing performance  
-
-### 🌱 Continuous Learning
-- Advanced SQL, Statistics, Generative AI  
-
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/PowerBI-Dashboards-orange?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Predictive-green?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:2F81F7,100:F75C7E&height=120&section=header&text=Welcome+to+My+World&fontSize=40&fontColor=ffffff" />
 </p>
 
+### 🚀 Current Focus
+- End-to-end **Data Analytics & Data Science**  
+- SQL, Python, Power BI, Machine Learning  
 
+### 🤝 Collaboration
+- Customer analytics, churn prediction, segmentation  
+
+### 🌱 Learning
+- Advanced SQL, Predictive Modeling, Generative AI  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer" />
+</p>
 
 <!-- About My Work Header Ends Here -->
 
