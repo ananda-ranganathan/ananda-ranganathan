@@ -204,14 +204,6 @@ SQL, Python, Exploratory Data Analysis (EDA), Power BI dashboards, Customer Segm
   <a href="mailto:anandaranganathanharikrishnan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
   </a>
-
-  <a href="https://instagram.com/YOUR_INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-
-  <a href="https://web.telegram.org/a/#5755505406">
-    <img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram"/>
-  </a>
 </p>
 
 <!-- Lets Connect Ends Here -->
