@@ -24,50 +24,53 @@
 <!-- End of Animated Name Banner -->
 <!-- Profile Header Ends Here -->
 
-<!-- About My Work Section Starts -->
+<!-- About My Work Section -->
 
 ## <p align="center">💫 About My Work</p>
 
 ---
 
-### 🔭 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=1200&color=F72585&vCenter=true&lines=I’m+currently+working+on" />
-**_End-to-end Data Analytics & Data Science._**
+🔭 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=99999&color=F72585&vCenter=true&repeat=false&lines=I’m+currently+working+on|" />
+End-to-end Data Analytics & Data Science.
 
 ---
 
-### 👯 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=1200&color=4CC9F0&vCenter=true&lines=I’m+looking+to+collaborate+on" />
-**_Customer Segmentation, Churn Prediction, Marketing Performance._**
+👯 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=99999&color=4CC9F0&vCenter=true&repeat=false&lines=I’m+looking+to+collaborate+on|" />
+Customer Segmentation, Churn Prediction, Marketing Performance.
 
 ---
 
-### 🤝 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=1200&color=9D4EDD&vCenter=true&lines=I’m+looking+for+help+with" />
-**_Advanced ML & NLP, Deep Learning, Generative AI in analytics workflows._**
+🤝 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=99999&color=9D4EDD&vCenter=true&repeat=false&lines=I’m+looking+for+help+with|" />
+Advanced ML & NLP, Deep Learning, Generative AI in analytics workflows.
 
 ---
 
-### 🌱 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=1200&color=06D6A0&vCenter=true&lines=I’m+currently+learning" />
-**_Advanced SQL, Statistics, Predictive Modeling, Generative AI for intelligent analytics solutions._**
+🌱 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=99999&color=06D6A0&vCenter=true&repeat=false&lines=I’m+currently+learning|" />
+Advanced SQL, Statistics, Predictive Modeling, Generative AI for intelligent analytics solutions.
 
 ---
 
-### 💬 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=1200&color=F77F00&vCenter=true&lines=Ask+me+about" />
-**_SQL, Python, EDA, Power BI dashboards & Business Storytelling with data._**
+💬 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=99999&color=F77F00&vCenter=true&repeat=false&lines=Ask+me+about|" />
+SQL, Python, EDA, Power BI dashboards & Business Storytelling with data.
 
 ---
 
-### 📝 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=1200&color=8338EC&vCenter=true&lines=I+regularly+write+articles+on" />
-**_Medium / Technical Blogs (Data Analytics & Data Science)_**
+📝 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=99999&color=8338EC&vCenter=true&repeat=false&lines=I+regularly+write+articles+on|" />
+Medium / Technical Blogs (Data Analytics & Data Science).
 
 ---
 
-### 📄 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=1200&color=EF476F&vCenter=true&lines=Know+about+my+experiences" />
-**_Resume & professional journey in Data Analytics and Data Science._**
+📄 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=20&pause=99999&color=EF476F&vCenter=true&repeat=false&lines=Know+about+my+experiences|" />
+Resume & professional journey in Data Analytics and Data Science.
 
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-<!-- About My Work Section Ends -->
+
+
+
+
 
 
 <!-- Tech Stacks Starts Here -->
