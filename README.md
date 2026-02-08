@@ -27,27 +27,36 @@
 <!-- About My Work Section -->
 ## 💫 About My Work
 
-### 🔭 <span style="color:#F72585">Currently Working On</span>  
-End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).
-
-### 👯 <span style="color:#4CC9F0">Collaborating On</span>  
-Customer analytics, churn prediction, segmentation, marketing performance.
-
-### 🤝 <span style="color:#9D4EDD">Seeking Help With</span>  
-Advanced ML, MLOps, Generative AI in analytics workflows.
-
-### 🌱 <span style="color:#06D6A0">Currently Learning</span>  
-Advanced SQL, Statistics, Predictive Modeling, Generative AI.
-
-### 💬 <span style="color:#F77F00">Ask Me About</span>  
-SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.
-
-### 📝 <span style="color:#8338EC">Writing</span>  
-Medium blogs on Data Analytics & Data Science.
-
-### 📄 <span style="color:#EF476F">Experience</span>  
-Resume & professional journey in analytics and AI.
-
+<table>
+  <tr>
+    <td><span style="color:#F72585">🔭 Currently Working On</span></td>
+    <td>End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).</td>
+  </tr>
+  <tr>
+    <td><span style="color:#4CC9F0">👯 Collaborating On</span></td>
+    <td>Customer analytics, churn prediction, segmentation, marketing performance.</td>
+  </tr>
+  <tr>
+    <td><span style="color:#9D4EDD">🤝 Seeking Help With</span></td>
+    <td>Advanced ML, MLOps, Generative AI in analytics workflows.</td>
+  </tr>
+  <tr>
+    <td><span style="color:#06D6A0">🌱 Currently Learning</span></td>
+    <td>Advanced SQL, Statistics, Predictive Modeling, Generative AI.</td>
+  </tr>
+  <tr>
+    <td><span style="color:#F77F00">💬 Ask Me About</span></td>
+    <td>SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.</td>
+  </tr>
+  <tr>
+    <td><span style="color:#8338EC">📝 Writing</span></td>
+    <td>Medium blogs on Data Analytics & Data Science.</td>
+  </tr>
+  <tr>
+    <td><span style="color:#EF476F">📄 Experience</span></td>
+    <td>Resume & professional journey in analytics and AI.</td>
+  </tr>
+</table>
 
 
 <!-- Tech Stacks Starts Here -->
