@@ -28,41 +28,39 @@
 ## 💫 About My Work
 
 <p align="left">
-  <img align="left" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=35&section=header&text=🔭%20Currently%20Working%20On&fontSize=16&animation=blinking" />
-  &nbsp; End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=F72585&center=false&vCenter=true&width=400&lines=🔭+Currently+Working+On" />
+  End-to-end Data Analytics & Data Science (SQL, Python, Power BI, ML).
 </p>
 
 <p align="left">
-  <img align="left" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=35&section=header&text=👯%20Collaborating%20On&fontSize=16&animation=blinking" />
-  &nbsp; Customer analytics, churn prediction, segmentation, marketing performance.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=4CC9F0&center=false&vCenter=true&width=400&lines=👯+Collaborating+On" />
+  Customer analytics, churn prediction, segmentation, marketing performance.
 </p>
 
 <p align="left">
-  <img align="left" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=35&section=header&text=🤝%20Seeking%20Help%20With&fontSize=16&animation=blinking" />
-  &nbsp; Advanced ML, MLOps, Generative AI in analytics workflows.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=9D4EDD&center=false&vCenter=true&width=400&lines=🤝+Seeking+Help+With" />
+  Advanced ML, MLOps, Generative AI in analytics workflows.
 </p>
 
 <p align="left">
-  <img align="left" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=35&section=header&text=🌱%20Currently%20Learning&fontSize=16&animation=blinking" />
-  &nbsp; Advanced SQL, Statistics, Predictive Modeling, Generative AI.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=06D6A0&center=false&vCenter=true&width=400&lines=🌱+Currently+Learning" />
+  Advanced SQL, Statistics, Predictive Modeling, Generative AI.
 </p>
 
 <p align="left">
-  <img align="left" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=35&section=header&text=💬%20Ask%20Me%20About&fontSize=16&animation=blinking" />
-  &nbsp; SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=F77F00&center=false&vCenter=true&width=400&lines=💬+Ask+Me+About" />
+  SQL, Python, EDA, Power BI dashboards, Customer Segmentation, Churn Analysis.
 </p>
 
 <p align="left">
-  <img align="left" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=35&section=header&text=📝%20Writing&fontSize=16&animation=blinking" />
-  &nbsp; Medium blogs on Data Analytics & Data Science.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=8338EC&center=false&vCenter=true&width=400&lines=📝+Writing" />
+  Medium blogs on Data Analytics & Data Science.
 </p>
 
 <p align="left">
-  <img align="left" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=35&section=header&text=📄%20Experience&fontSize=16&animation=blinking" />
-  &nbsp; Resume & professional journey in analytics and AI.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=18&pause=1200&color=EF476F&center=false&vCenter=true&width=400&lines=📄+Experience" />
+  Resume & professional journey in analytics and AI.
 </p>
-
-
 
 
 
