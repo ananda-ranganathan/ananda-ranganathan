@@ -28,73 +28,88 @@
 
 
 <!-- About My Work Header Starts Here -->
-
 ## <p align="center">💫 About My Work</p>
+
 <table>
   <tr>
-    <td width="40">🔭</td>
+    <td width="40">
+      <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="22"/>
+    </td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=F72585&vCenter=true&lines=I’m+currently+working+on" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=F72585&repeat=false&lines=I’m+currently+working+on|" />
       <br/>
       End-to-end Data Analytics & Data Science.
     </td>
   </tr>
 
   <tr>
-    <td>👯</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=4CC9F0&vCenter=true&lines=I’m+looking+to+collaborate+on" />
+      <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="22"/>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=4CC9F0&repeat=false&lines=I’m+looking+to+collaborate+on|" />
       <br/>
       Customer Segmentation, Churn Prediction, Marketing Performance.
     </td>
   </tr>
 
   <tr>
-    <td>🤝</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=9D4EDD&vCenter=true&lines=I’m+looking+for+help+with" />
+      <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="22"/>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=9D4EDD&repeat=false&lines=I’m+looking+for+help+with|" />
       <br/>
       Advanced ML & NLP, Deep Learning, Generative AI in analytics workflows.
     </td>
   </tr>
 
   <tr>
-    <td>🌱</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=06D6A0&vCenter=true&lines=I’m+currently+learning" />
+      <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="22"/>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=06D6A0&repeat=false&lines=I’m+currently+learning|" />
       <br/>
-      Advanced SQL, Statistics, Predictive Modeling, Generative AI for intelligent analytics solutions.  
+      Advanced SQL, Statistics, Predictive Modeling, Generative AI for intelligent analytics solutions.
     </td>
   </tr>
 
   <tr>
-    <td>💬</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=F77F00&vCenter=true&lines=Ask+me+about" />
+      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="22"/>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=F77F00&repeat=false&lines=Ask+me+about|" />
       <br/>
       SQL, Python, EDA, Power BI dashboards and Business Storytelling with data.
     </td>
   </tr>
 
   <tr>
-    <td>📝</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=8338EC&vCenter=true&lines=I+regularly+write+articles+on" />
+      <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="22"/>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=8338EC&repeat=false&lines=I+regularly+write+articles+on|" />
       <br/>
       Medium / Technical Blogs (Data Analytics & Data Science)
     </td>
   </tr>
 
   <tr>
-    <td>📄</td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&italic=true&size=18&pause=1200&color=EF476F&vCenter=true&lines=Know+about+my+experiences" />
+      <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" width="22"/>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=16&pause=99999&color=EF476F&repeat=false&lines=Know+about+my+experiences|" />
       <br/>
       Resume & professional journey in Data Analytics and Data Science
     </td>
   </tr>
-  
 </table>
+
+
 
 <!-- About My Work Header Ends Here -->
 
