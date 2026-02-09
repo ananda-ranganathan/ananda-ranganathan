@@ -181,9 +181,8 @@
 
 ## <p align="center">🚀 Currently Exploring</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Building+Real-World+Data+Science+Projects;Practicing+Machine+Learning+Algorithms;Creating+Automation+Frameworks;Sharpening+SQL+and+Analytics+Skills" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Data+Analysis+with+Real-World+Insights;Exploring+End-to-End+Data+Science+Workflows;Practicing+Machine+Learning+Algorithms;Building+AI-Driven+Solutions" />
 </p>
-
 <!-- Current Activity Ends Here -->
 
 
