@@ -29,7 +29,7 @@
 
 ### <span style="color:#8A2BE2">🧑‍💻 What I Do</span>
 - Deliver **end-to-end Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
-- Build predictive models that drive actionable business insights  
+- Build predictive models to improve retention, efficiency, and decision-making. 
 
 ---
 
