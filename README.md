@@ -160,8 +160,8 @@
 
 
 <!-- Fun Facts Starts Here -->
-## <p align="center">⚡ Fun Fact</p>
 
+<h2 align="center">⚡ Fun Fact</h2>
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1200&color=7209B7&center=true&vCenter=true&width=640&lines=🔍+I+believe+every+dataset+has+a+story+waiting+to+be+told+🧩"
@@ -179,7 +179,8 @@
 
 <!-- Current Activity Starts Here -->
 
-## <p align="center">🚀 Currently Exploring</p>
+<h2 align="center">🚀 Currently Exploring</h2>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Data+Analysis+with+Real-World+Insights;Exploring+End-to-End+Data+Science+Workflows;Practicing+Machine+Learning+Algorithms;Building+AI-Driven+Solutions" />
 </p>
@@ -211,9 +212,8 @@
 <!-- Thank You Greetings Starts Here -->
 
 <p align="center">
-  <b>Thanks for being here — connection is where innovation begins.</b>
+  <b><i><span style="color:#FF5733">Thanks for being here — connection is where innovation begins.</span></i></b>
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </p>
