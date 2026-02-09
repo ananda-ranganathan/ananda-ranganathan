@@ -27,7 +27,7 @@
 
 <!-- About My Work Section -->
 
-<h2 align="center">💫 About Work </h2>
+<h2>💫 About Work </h2>
 
 ### <span style="color:#8A2BE2">🧑‍💻 What I Do</span>
 - Deliver **end-to-end Data Analytics & Data Science** with SQL, Python, Power BI, and ML  
