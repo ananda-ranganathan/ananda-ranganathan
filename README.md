@@ -219,8 +219,3 @@
 </p>
 
 <!-- Thank You Greetings Ends Here -->
-
-
-
-### 👨‍💻 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> All of my projects are available at
-🔗 https://github.com/ananda-ranganathan
