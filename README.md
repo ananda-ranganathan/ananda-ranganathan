@@ -177,6 +177,16 @@
 
 <!-- GitHub Stats Ends Here -->
 
+<!-- Current Activity Starts Here -->
+
+## <p align="center">🚀 Currently Exploring</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Building+Real-World+Data+Science+Projects;Practicing+Machine+Learning+Algorithms;Creating+Automation+Frameworks;Sharpening+SQL+and+Analytics+Skills" />
+</p>
+
+<!-- Current Activity Ends Here -->
+
+
 <!-- Lets Connect starts Here -->
 
 ## <p align="center"> Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif" height="30px" style="max-width: 100%; height: auto; max-height: 30px; display: inline-block;" data-target="animated-image.originalImage"></p>
@@ -197,14 +207,6 @@
 </p>
 
 <!-- Lets Connect Ends Here -->
-
-
-## 🚀 What I’m Currently Building
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Building+Real-World+Data+Science+Projects;Practicing+Machine+Learning+Algorithms;Creating+Automation+Frameworks;Sharpening+SQL+and+Analytics+Skills" />
-</p>
-
 
 
 <!-- Thank You Greetings Starts Here -->
