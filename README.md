@@ -11,7 +11,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence;Think+Data!+Build+AI.;Engineer+by+Experience,+Data+Scientist+by+Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=950&lines=Evolving+from+Quality+Assurance+to+Artificial+Intelligence;🗂️Think Data!+Build+AI.;📚Learn +by+Experience,+Innovate+with+Purpose" />
 </p>
 
 
